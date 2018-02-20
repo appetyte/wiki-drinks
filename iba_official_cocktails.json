@@ -1,0 +1,2022 @@
+{
+  "Bellini": {
+    "summary": "A Bellini cocktail is a mixture of Prosecco sparkling wine and peach purée or nectar, which originated in Venice, Italy.",
+    "prep": "Pour peach purée into chilled flute, add sparkling wine. Stir gently.",
+    "ingredients": [
+      {
+        "name": "Prosecco",
+        "amount": "10 cl (2 parts)"
+      },
+      {
+        "name": "peach purée",
+        "amount": "5 cl (1 part)"
+      }
+    ],
+    "drinkware": "flute",
+    "notes": "Traditionally a Bellini uses white peaches for the fruit.",
+    "served": "straight",
+    "type": "wine",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Bellini_Cipriani%2C_Macaroni_Grill%2C_Dunwoody_GA.jpg",
+    "garnish": ""
+  },
+  "Black Russian": {
+    "summary": "The Black Russian is a cocktail of vodka and coffee liqueur. It contains five parts vodka to two parts coffee liqueur, per IBA specified ingredients. Traditionally, the drink is made by pouring the vodka over ice cubes or cracked ice in an old-fashioned glass, followed by the coffee liqueur.\nThis combination first appeared in 1949 and is ascribed to Gustave Tops, a Belgian barman, who created it at the Hotel Metropole in Brussels in honor of Perle Mesta, then United States Ambassador to Luxembourg.",
+    "prep": "Pour the ingredients into an old fashioned glass filled with ice cubes. Stir gently.",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "amount": "5 cl"
+      },
+      {
+        "name": "Coffee liqueur",
+        "amount": "2 cl"
+      }
+    ],
+    "drinkware": "old fashioned",
+    "notes": "",
+    "served": "rocks",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Black_Russian.jpg",
+    "garnish": ""
+  },
+  "Bloody Mary": {
+    "summary": "A Bloody Mary is a cocktail containing vodka, tomato juice, and combinations of other spices and flavorings including Worcestershire sauce, hot sauce, piri piri sauce, garlic and herb sauce, beef consommé or bouillon, horseradish, celery, olives, salt, black pepper, lemon juice, lime juice and/or celery salt. In the United States, it is usually consumed in the morning or early afternoon, and is popular as a hangover cure.\nThe Bloody Mary was invented in the 1920s or 1930s; there are various theories as to the origin of the drink, as well as the origin of its name.",
+    "prep": "Stirring gently, pour all ingredients into highball glass. Garnish.",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "amount": "4.5 cl (3 parts)"
+      },
+      {
+        "name": "juice",
+        "amount": "9 cl (6 parts) Tomato"
+      },
+      {
+        "name": "Lemon juice",
+        "amount": "1.5 cl (1 part)"
+      },
+      {
+        "name": "Worcestershire Sauce",
+        "amount": "2 to 3 dashes"
+      },
+      {
+        "name": "Tabasco",
+        "amount": ""
+      },
+      {
+        "name": "Celery salt",
+        "amount": ""
+      },
+      {
+        "name": "Pepper",
+        "amount": ""
+      }
+    ],
+    "drinkware": "highball",
+    "notes": "",
+    "served": "rocks",
+    "type": "mixed",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Bloody_Mary_Coctail_with_celery_stalk_-_Evan_Swigart.jpg",
+    "garnish": "Celery stalk and lemon wedge (optional)"
+  },
+  "Caipirinha": {
+    "summary": "Caipirinha (Portuguese pronunciation: [kajpiˈɾĩj̃ɐ]) is Brazil's national cocktail, made with cachaça (pronounced [kaˈʃasɐ]) (sugarcane hard liquor), sugar and lime. Cachaça, also known as caninha, or any one of a multitude of traditional names, is Brazil's most common distilled alcoholic beverage. Although both rum and cachaça are made from sugarcane-derived products, in cachaça the alcohol results from the fermentation of fresh sugarcane juice that is then distilled, while rum is usually made from refinery by-products such as molasses.\nThe drink is prepared by muddling the fruit and the sugar together, and adding the liquor. This can be made into a single glass, usually large, that can be shared amongst people, or into a larger jar, from where it is served in individual glasses.",
+    "prep": "Place lime and sugar into old fashioned glass and muddle (mash the two ingredients together using a muddler or a wooden spoon). Fill the glass with ice and add the Cachaça.",
+    "ingredients": [
+      {
+        "name": "cachaça",
+        "amount": "5 cl"
+      },
+      {
+        "name": "lime",
+        "amount": "Half, then cut into 4 wedges"
+      },
+      {
+        "name": "sugar",
+        "amount": "2 teaspoons"
+      }
+    ],
+    "drinkware": "old fashioned",
+    "notes": "A wide variety of fresh fruits can be used in place of lime. In the absence of cachaça, vodka can be used, making a caipiroska.",
+    "served": "rocks",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/15-09-26-RalfR-WLC-0048.jpg",
+    "garnish": "sugar cane, lime (ingredient)"
+  },
+  "Champagne cocktail": {
+    "summary": "A champagne cocktail is an alcoholic drink made with sugar, Angostura bitters, Champagne, brandy and a maraschino cherry as a garnish.",
+    "prep": "Add dash of Angostura bitter onto sugar cube and drop it into champagne flute. Add cognac followed by gently pouring chilled champagne. Garnish with orange slice and maraschino cherry.",
+    "ingredients": [
+      {
+        "name": "Champagne",
+        "amount": "9 cl"
+      },
+      {
+        "name": "cognac",
+        "amount": "1 cl"
+      },
+      {
+        "name": "Angostura bitters",
+        "amount": "2 dashes"
+      },
+      {
+        "name": "sugar cube",
+        "amount": "1"
+      }
+    ],
+    "drinkware": "flute",
+    "notes": "",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "",
+    "garnish": "Orange slice and maraschino cherry"
+  },
+  "Cosmopolitan": {
+    "summary": "A cosmopolitan, or informally a cosmo, is a cocktail made with vodka, triple sec, cranberry juice, and freshly squeezed or sweetened lime juice.",
+    "prep": "Add all ingredients into cocktail shaker filled with ice. Shake well and double strain into large cocktail glass. Garnish with lime wheel.",
+    "ingredients": [
+      {
+        "name": "Vodka Citron",
+        "amount": "4 cl"
+      },
+      {
+        "name": "Cointreau",
+        "amount": "1.5 cl"
+      },
+      {
+        "name": "lime juice",
+        "amount": "1.5 cl"
+      },
+      {
+        "name": "Cranberry juice",
+        "amount": "3 cl"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "The drink should be a frothy bright pink color",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Cosmopolitan_%285076906532%29.jpg",
+    "garnish": "Lemon slice, lime wedge"
+  },
+  "Cuba Libre (Rum and Coke)": {
+    "summary": "Rum and Coke, or a Cuba Libre (; Spanish pronunciation: [ˈkuβa ˈliβɾe], \"Free Cuba\" libre here an adjective, not a verb), is a highball cocktail consisting of cola, rum, and traditionally lime juice on ice.\nThe cocktail originated in the early 20th century in Cuba, after the country won independence in the Spanish–American War. It quickly became popular across Cuba and in many other countries, and has been one of the world's most popular alcoholic drinks. Traditionally, the cola ingredient is Coca-Cola (\"Coke\"), and the alcohol is a Cuban light rum such as Bacardi.",
+    "prep": "Build all ingredients in a Collins glass filled with ice. Garnish with lime wedge.",
+    "ingredients": [
+      {
+        "name": "Cola",
+        "amount": "12 cl"
+      },
+      {
+        "name": "Light rum",
+        "amount": "5 cl"
+      },
+      {
+        "name": "lime juice",
+        "amount": "1 cl"
+      }
+    ],
+    "drinkware": "Collins glass",
+    "notes": "",
+    "served": "rocks",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/15-09-26-RalfR-WLC-0056.jpg",
+    "garnish": "lime wedge"
+  },
+  "French 75": {
+    "summary": "French 75 is a cocktail made from gin, Champagne, lemon juice, and sugar. It is also called a 75 Cocktail, or in French simply a Soixante Quinze (Seventy Five).\nThe drink dates to World War I, and an early form was created in 1915 at the New York Bar in Paris—later Harry's New York Bar—by barman Harry MacElhone.",
+    "prep": "Combine gin, syrup, and lemon juice in a cocktail shaker filled with ice.  Shake vigorously and strain into a chilled champagne glass.  Top up with Champagne. Stir gently.",
+    "ingredients": [
+      {
+        "name": "gin",
+        "amount": "3 cl"
+      },
+      {
+        "name": "simple syrup",
+        "amount": "2 dashes"
+      },
+      {
+        "name": "lemon juice",
+        "amount": "1.5 cl"
+      },
+      {
+        "name": "Champagne",
+        "amount": "6 cl"
+      }
+    ],
+    "drinkware": "flute",
+    "notes": "",
+    "served": "straight",
+    "type": "wine",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/French_75.jpg",
+    "garnish": ""
+  },
+  "French Connection": {
+    "summary": "A French Connection is a cocktail made with equal parts Cognac and Amaretto liqueur.",
+    "prep": "Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.",
+    "ingredients": [
+      {
+        "name": "Cognac",
+        "amount": "3.5 cl"
+      },
+      {
+        "name": "Grand Marnier",
+        "amount": "3.5 cl"
+      }
+    ],
+    "drinkware": "old fashioned",
+    "notes": "",
+    "served": "rocks",
+    "type": "cocktail",
+    "img_url": "",
+    "garnish": ""
+  },
+  "The Godfather": {
+    "summary": "The Godfather is a duo mixed drink made of Scotch whisky and amaretto.",
+    "prep": "Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.",
+    "ingredients": [
+      {
+        "name": "Scotch whisky",
+        "amount": "3.5 cl"
+      },
+      {
+        "name": "Amaretto",
+        "amount": "3.5 cl"
+      }
+    ],
+    "drinkware": "old fashioned",
+    "notes": "",
+    "served": "rocks",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Godfather_cocktail.jpg",
+    "garnish": ""
+  },
+  "The Godmother": {
+    "summary": "The Godmother is related to The Godfather cocktail (duo mixed drink made of Scotch whisky and amaretto). It uses vodka in place of whisky, while the French Connection uses cognac.",
+    "prep": "Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "amount": "3.5 cl"
+      },
+      {
+        "name": "Amaretto",
+        "amount": "3.5 cl"
+      }
+    ],
+    "drinkware": "old fashioned",
+    "notes": "",
+    "served": "rocks",
+    "type": "cocktail",
+    "img_url": "https://mmac-geckowebdevelopm1.netdna-ssl.com/images/cocktails/6760/godfather.jpg",
+    "garnish": ""
+  },
+  "Golden Dream": {
+    "summary": "The Golden Dream is an IBA official cocktail made with Galliano and Cointreau.",
+    "prep": "Shake with cracked ice.  Strain into glass and serve.",
+    "ingredients": [
+      {
+        "name": "Galliano",
+        "amount": "2 cl (2 parts)"
+      },
+      {
+        "name": "triple sec",
+        "amount": "2 cl (2 parts)"
+      },
+      {
+        "name": "orange juice",
+        "amount": "2 cl (2 parts)"
+      },
+      {
+        "name": "cream",
+        "amount": "1 cl (1 part)"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "Should be quite fluffy",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Godlen-Dream_Mixed_Drink_Cocktail_%282360538105%29.jpg",
+    "garnish": ""
+  },
+  "Grasshopper": {
+    "summary": "A grasshopper is a sweet, mint-flavored, after-dinner drink. The name of the drink derives from its green color, which comes from crème de menthe. The drink reputedly originated at Tujague's, a bar in the French Quarter of New Orleans, Louisiana, and was invented by its owner, Philip Guichet.",
+    "prep": "Pour ingredients into a cocktail shaker with ice.  Shake briskly and then strain into a chilled cocktail glass.",
+    "ingredients": [
+      {
+        "name": "Crème de menthe (green)",
+        "amount": "3 cl"
+      },
+      {
+        "name": "Crème de cacao (white)",
+        "amount": "3 cl"
+      },
+      {
+        "name": "cream",
+        "amount": "3 cl"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Grasshopper_cocktail.jpg",
+    "garnish": ""
+  },
+  "Harvey Wallbanger": {
+    "summary": "The Harvey Wallbanger is a mixed drink made with vodka, Galliano, and orange juice.",
+    "prep": "Stir the vodka and orange juice with ice in the glass, then float the Galliano on top.  Garnish and serve.",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "amount": "4.5 cl (3 parts)"
+      },
+      {
+        "name": "Galliano",
+        "amount": "1.5 cl (1 part)"
+      },
+      {
+        "name": "orange juice",
+        "amount": "9 cl(6 parts)"
+      }
+    ],
+    "drinkware": "highball",
+    "notes": "",
+    "served": "rocks",
+    "type": "mixed",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Harvey_Wallbanger.jpg",
+    "garnish": "orange slice and maraschino cherry"
+  },
+  "Hemingway Special": {
+    "summary": "A Hemingway Special is an all day cocktail based on the Floridita Daiquiri and is recognised by the IBA.",
+    "prep": "Pour all ingredients into a shaker with ice. Shake.",
+    "ingredients": [
+      {
+        "name": "Rum",
+        "amount": "6 cL (12 parts)"
+      },
+      {
+        "name": "grapefruit juice",
+        "amount": "4 cl (8 parts)"
+      },
+      {
+        "name": "Maraschino liqueur",
+        "amount": "1.5 cL (3 parts)"
+      },
+      {
+        "name": "fresh lime juice",
+        "amount": "1.5 cl (3 parts)"
+      }
+    ],
+    "drinkware": "double cocktail glass",
+    "notes": "",
+    "served": "straight",
+    "type": "mixed",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Hemingway_Daiquiri.jpg",
+    "garnish": ""
+  },
+  "Horse's Neck": {
+    "summary": "A Horse's Neck is an American cocktail recognised by the IBA, identifiably sporting a long, curling strip of lemon rind.",
+    "prep": "Pour brandy and ginger ale directly into highball glass with ice cubes. Stir gently. Garnish with lemon zest. If desired, add dashes of Angostura Bitter.",
+    "ingredients": [
+      {
+        "name": "Brandy",
+        "amount": "4 cL (1 part)"
+      },
+      {
+        "name": "Ginger ale",
+        "amount": "12 cL (3 parts)"
+      },
+      {
+        "name": "(optional)",
+        "amount": "Dash of Angostura bitter"
+      }
+    ],
+    "drinkware": "highball",
+    "notes": "",
+    "served": "rocks",
+    "type": "mixed",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Horse%27s_Neck_cocktail.jpg",
+    "garnish": "Long spiral of lemon zest"
+  },
+  "Irish Coffee": {
+    "summary": "Irish coffee (Irish: caife Gaelach) is a cocktail consisting of hot coffee, Irish whiskey, and sugar (some recipes specify that brown sugar should be used), stirred, and topped with thick cream. The coffee is drunk through the cream. The original recipe explicitly uses cream that has not been whipped, although drinks made with whipped cream are often sold as \"Irish coffee\".",
+    "prep": "Heat the coffee, whiskey and sugar; do not boil. Pour into glass and top with cream; serve hot.",
+    "ingredients": [
+      {
+        "name": "Irish whiskey",
+        "amount": "4 cl (2 parts)"
+      },
+      {
+        "name": "hot coffee",
+        "amount": "8 cl (4 parts)"
+      },
+      {
+        "name": "cream",
+        "amount": "3 cl (1½ parts)"
+      },
+      {
+        "name": "brown sugar",
+        "amount": "1 tsp"
+      }
+    ],
+    "drinkware": "coffee",
+    "notes": "",
+    "served": "Hot",
+    "type": "Cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Irish_coffee_glass.jpg",
+    "garnish": ""
+  },
+  "Kir": {
+    "summary": "Kir is a popular French cocktail made with a measure of crème de cassis (blackcurrant liqueur) topped up with white wine.\nIn France it is usually drunk as an apéritif before a meal or snack. It used to be made with Bourgogne Aligoté, a lesser white wine of Burgundy. Now, various white wines are used throughout France, according to the region and the whim of the barkeeper. Many prefer a white Chardonnay-based Burgundy, such as Chablis.\nIt used to be called blanc-cassis, but it is now named after Félix Kir (1876–1968), mayor of Dijon in Burgundy. Kir was a pioneer of the twinning movement in the aftermath of the Second World War, and popularized the drink by offering it at receptions to visiting delegations.",
+    "prep": "Add the crème de cassis to the bottom of the glass, then top up with wine.",
+    "ingredients": [
+      {
+        "name": "white wine",
+        "amount": "9 cl (9 parts)"
+      },
+      {
+        "name": "crème de cassis",
+        "amount": "1 cl (1 part)"
+      }
+    ],
+    "drinkware": "winew",
+    "notes": "A recipe can be found at the International Bartenders Association website.",
+    "served": "straight",
+    "type": "wine",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Kir_cocktail.jpg",
+    "garnish": ""
+  },
+  "Long Island Iced Tea": {
+    "summary": "A Long Island Iced Tea is a type of alcoholic mixed drink typically made with vodka, tequila, light rum, triple sec, gin, and a splash of cola, which gives the drink the same amber hue as its namesake. A popular version mixes equal parts vodka, gin, rum, triple sec, with 1½ parts sour mix and a splash of cola.\nMost variants use equal parts of the main liquors, but include a smaller amount of triple sec (or other orange-flavored liqueur). Close variants often replace the sour mix with lemon juice, replace the cola with diet cola or actual iced tea, or add white crème de menthe. Most variants do not include any tea.\nThe drink has a much higher alcohol concentration (approximately 22 percent) than most highball drinks due to the relatively small amount of mixer.",
+    "prep": "Add all ingredients into highball glass filled with ice. Stir gently. Garnish with lemon spiral. Serve with straw.",
+    "ingredients": [
+      {
+        "name": "Tequila",
+        "amount": "1.5 cl"
+      },
+      {
+        "name": "Vodka",
+        "amount": "1.5 cl"
+      },
+      {
+        "name": "white rum",
+        "amount": "1.5 cl"
+      },
+      {
+        "name": "triple sec",
+        "amount": "1.5 cl"
+      },
+      {
+        "name": "Gin",
+        "amount": "1.5 cl"
+      },
+      {
+        "name": "lemon juice",
+        "amount": "2.5 cl"
+      },
+      {
+        "name": "gomme syrup",
+        "amount": "3.0 cl"
+      },
+      {
+        "name": "Cola",
+        "amount": "1 dash"
+      }
+    ],
+    "drinkware": "highball",
+    "notes": "",
+    "served": "rocks",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Long_Island_Iced_Teas.jpg",
+    "garnish": ""
+  },
+  "Mai Tai": {
+    "summary": "The Mai Tai is an alcoholic cocktail based on rum, Curaçao liqueur, orgeat syrup, and lime juice, associated with Polynesian-style settings.\n\"Maita'i\" is the Tahitian word for \"good\"; but the drink is spelled as two words, sometimes hyphenated or capitalized.",
+    "prep": "Shake all ingredients with ice. Strain into glass. Garnish and serve with straw.",
+    "ingredients": [
+      {
+        "name": "white rum",
+        "amount": "4 cl"
+      },
+      {
+        "name": "dark rum",
+        "amount": "2 cl"
+      },
+      {
+        "name": "orange curaçao",
+        "amount": "1.5 cl"
+      },
+      {
+        "name": "orgeat syrup",
+        "amount": "1.5 cl"
+      },
+      {
+        "name": "lime juice",
+        "amount": "1 cl"
+      }
+    ],
+    "drinkware": "old fashioned",
+    "notes": "",
+    "served": "rocks",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Trader_Vic%27s_Mai_Tai.jpg",
+    "garnish": "pineapple spear, mint leaves and lime shell"
+  },
+  "Margarita": {
+    "summary": "A margarita is a cocktail consisting of tequila, triple sec, and lime juice often served with salt on the rim of the glass. The drink is served shaken with ice (on the rocks), blended with ice (frozen margarita), or without ice (straight up).",
+    "prep": "Pour all ingredients into shaker with ice. Shake well and strain into cocktail glass rimmed with salt.",
+    "ingredients": [
+      {
+        "name": "tequila",
+        "amount": "3.5 cL (7 parts)"
+      },
+      {
+        "name": "Cointreau",
+        "amount": "2 cL (4 parts)"
+      },
+      {
+        "name": "lime juice",
+        "amount": "1.5 cL (3 parts)"
+      }
+    ],
+    "drinkware": "margarita",
+    "notes": "",
+    "served": "rocks",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/MargaritaReal.jpg",
+    "garnish": "Salt on the rim"
+  },
+  "Mimosa": {
+    "summary": "A Mimosa cocktail is composed of one part champagne (or other sparkling wine) and one part chilled citrus juice, usually orange juice unless otherwise specified.",
+    "prep": "Ensure both ingredients are well chilled, then mix into the glass. Serve cold.",
+    "ingredients": [
+      {
+        "name": "champagne",
+        "amount": "7.5 cl"
+      },
+      {
+        "name": "orange juice",
+        "amount": "7.5 cl"
+      }
+    ],
+    "drinkware": "flute",
+    "notes": "",
+    "served": "neat",
+    "type": "wine",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Pool-side_Mimosas_at_The_Standard_Hotel.jpg",
+    "garnish": "Orange twist"
+  },
+  "Mint julep": {
+    "summary": "The mint julep is a mixed alcoholic drink, or cocktail, consisting primarily of bourbon (or some other spirit), water, crushed or shaved ice, and fresh mint.",
+    "prep": "In a highball glass gently muddle the mint, sugar and water. Fill the glass with cracked ice, add Bourbon and stir well until the glass is well frosted. Garnish with a mint sprig.",
+    "ingredients": [
+      {
+        "name": "bourbon whiskey",
+        "amount": "6 cl"
+      },
+      {
+        "name": "mint leaves",
+        "amount": "4"
+      },
+      {
+        "name": "powdered sugar",
+        "amount": "1 teaspoon"
+      },
+      {
+        "name": "water",
+        "amount": "2 teaspoons"
+      }
+    ],
+    "drinkware": "highball",
+    "notes": "",
+    "served": "rocks",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Mint_Julep_im_Silberbecher.jpg",
+    "garnish": "Mint sprig"
+  },
+  "Mojito": {
+    "summary": "Mojito (; Spanish: [moˈxito]) is a traditional Cuban highball.\nTraditionally, a mojito is a cocktail that consists of five ingredients: white rum, sugar (traditionally sugar cane juice), lime juice, soda water, and mint. The original Cuban recipe uses spearmint or yerba buena, a mint variety very popular on the island. Its combination of sweetness, citrus, and mint flavors is intended to complement the rum, and has made the mojito a popular summer drink. The cocktail has a relatively low alcohol content (about 10% alcohol by volume).\nWhen preparing a mojito, lime juice is added to sugar (or syrup) and mint leaves. The mixture is then gently mashed with a muddler.",
+    "prep": "Muddle mint leaves with sugar and lime juice. Add a splash of soda water and fill the glass with cracked ice. Pour the rum and top with soda water. Garnish with spring of mint leaves and lemon slice. Serve with straw.",
+    "ingredients": [
+      {
+        "name": "white rum",
+        "amount": "4 cl"
+      },
+      {
+        "name": "lime juice",
+        "amount": "3 cl"
+      },
+      {
+        "name": "mint",
+        "amount": "6 sprigs"
+      },
+      {
+        "name": "sugar",
+        "amount": "2 teaspoons"
+      },
+      {
+        "name": "water",
+        "amount": "soda"
+      }
+    ],
+    "drinkware": "collins",
+    "notes": "",
+    "served": "rocks",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/15-09-26-RalfR-WLC-0067.jpg",
+    "garnish": "sprig of mint (Yerba buena in the original recipe), lemon slice"
+  },
+  "Moscow mule": {
+    "summary": "Moscow mule is a cocktail made with vodka, spicy ginger beer, and lime juice, garnished with a slice or wedge of lime. It is a type of buck and therefore sometimes known as a vodka buck. The Moscow mule is popularly served in a copper mug.",
+    "prep": "Combine vodka and ginger beer in a highball glass filled with ice. Add lime juice. Stir gently. Garnish.",
+    "ingredients": [
+      {
+        "name": "vodka",
+        "amount": "4.5 cl (9 parts)"
+      },
+      {
+        "name": "lime juice",
+        "amount": "0.5 cl (1 part)"
+      },
+      {
+        "name": "ginger beer",
+        "amount": "12 cl (24 parts)"
+      }
+    ],
+    "drinkware": "copper mug",
+    "notes": "",
+    "served": "rocks",
+    "type": "vodka",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Moscow_Mule_at_Rye%2C_San_Francisco.jpg",
+    "garnish": "Lime slice"
+  },
+  "Piña colada": {
+    "summary": "The piña colada (; Spanish: piña [ˈpiɲa], \"pineapple,\" and colada [koˈlaða], \"strained\") is a sweet cocktail made with rum, coconut cream or coconut milk, and pineapple juice, usually served either blended or shaken with ice. It may be garnished with either a pineapple wedge, maraschino cherry, or both.",
+    "prep": "Mix with crushed ice in blender until smooth. Pour into chilled glass, garnish and serve.",
+    "ingredients": [
+      {
+        "name": "white rum",
+        "amount": "3 cl (one part)"
+      },
+      {
+        "name": "coconut milk",
+        "amount": "3 cl (one part)"
+      },
+      {
+        "name": "pineapple juice",
+        "amount": "9 cl (3 parts)"
+      }
+    ],
+    "drinkware": "Poco",
+    "notes": "Alternately, the three main components can simply be added to a cocktail glass, and then add ice cubes.",
+    "served": "Blended",
+    "type": "Cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Pi%C3%B1a_Colada.jpg",
+    "garnish": "Pineapple slice and/or maraschino cherry"
+  },
+  "Rose": {
+    "summary": "Rose is an IBA official cocktail made of vermouth, cherry eau de vie (Kirsch) and fruit syrup (strawberry, raspberry or redcurrant). Some recipes include cherry liqueur and gin.\nThe Rose cocktail was popular in 1920's Paris and was created by Johnny Mitta, barman at the Chatham Hotel.",
+    "prep": "Shake together in a cocktail shaker, then strain into chilled glass.  Garnish and serve.",
+    "ingredients": [
+      {
+        "name": "dry vermouth",
+        "amount": "4 cl (2 parts)"
+      },
+      {
+        "name": "Kirsch",
+        "amount": "2 cl (1 parts)"
+      },
+      {
+        "name": "Strawberry syrup",
+        "amount": "3 dashes"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "",
+    "served": "straight",
+    "type": "wine",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Rose_%28cocktail%29.jpg",
+    "garnish": "Maraschino cherry"
+  },
+  "Sea Breeze": {
+    "summary": "A Sea Breeze is a cocktail containing vodka with cranberry juice and grapefruit juice. The cocktail is usually consumed during summer months. The drink may be shaken in order to create a foamy surface. It is considered an IBA Official Cocktail.\nThe drink follows the classic cocktail principle of balancing strong (alcohol) with weak (fruit juice) and sweet and sour.\nA Bay Breeze, or a Hawaiian Sea Breeze, is similar to a Sea Breeze except for the substitution of pineapple juice for grapefruit juice.",
+    "prep": "Build all ingredients in a highball glass filled with ice. Garnish with lime wedge.",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "amount": "4 cl"
+      },
+      {
+        "name": "Cranberry juice",
+        "amount": "12 cl"
+      },
+      {
+        "name": "Grapefruit juice",
+        "amount": "3 cl"
+      }
+    ],
+    "drinkware": "highball",
+    "notes": "",
+    "served": "rocks",
+    "type": "mixed",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Cocktail_with_vodka.jpg",
+    "garnish": "lime slice"
+  },
+  "Sex on the Beach": {
+    "summary": "A Sex on the Beach is a cocktail containing vodka, peach schnapps, orange juice and cranberry juice. The cocktail is usually consumed during summer months. It is considered an IBA Official Cocktail.\nThere are several stories claiming to describe the origin of the Sex on the Beach. One claims that the cocktail originated in Florida, USA in the spring of 1987 coinciding with the introduction of peach schnapps.",
+    "prep": "Build all ingredients in a highball glass filled with ice. Garnish with orange slice.",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "amount": "4 cl"
+      },
+      {
+        "name": "Peach schnapps",
+        "amount": "2 cl"
+      },
+      {
+        "name": "orange juice",
+        "amount": "4 cl"
+      },
+      {
+        "name": "Cranberry juice",
+        "amount": "4 cl"
+      }
+    ],
+    "drinkware": "highball",
+    "notes": "",
+    "served": "rocks",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Sex_On_The_Beach.jpg",
+    "garnish": "orange slice"
+  },
+  "Singapore Sling": {
+    "summary": "The Singapore Sling is a gin-based cocktail from Singapore. This long drink was developed sometime before 1915 by Ngiam Tong Boon, a Hainanese bartender working at the Long Bar in Raffles Hotel, Singapore.",
+    "prep": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake well. Strain into highball glass. Garnish with pineapple and cocktail cherry.",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "amount": "3 cl"
+      },
+      {
+        "name": "Cherry Liqueur",
+        "amount": "1.5 cl"
+      },
+      {
+        "name": "Cointreau",
+        "amount": "0.75 cl"
+      },
+      {
+        "name": "DOM Bénédictine",
+        "amount": "0.75 cl"
+      },
+      {
+        "name": "Grenadine",
+        "amount": "1 cl"
+      },
+      {
+        "name": "Pineapple juice",
+        "amount": "12 cl"
+      },
+      {
+        "name": "lime juice",
+        "amount": "1.5 cl"
+      },
+      {
+        "name": "Angostura bitters",
+        "amount": "1 dash"
+      }
+    ],
+    "drinkware": "hurricane",
+    "notes": "",
+    "served": "straight",
+    "type": "mixed",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Singaporesling-march2017.jpg",
+    "garnish": "Maraschino cherry, pineapple"
+  },
+  "Tequila Sunrise": {
+    "summary": "The Tequila Sunrise is a cocktail made of tequila, orange juice, and grenadine syrup and served unmixed in a tall glass. The modern drink originates from Sausalito in the early 1970s, after an earlier one created in the 1930s in Phoenix, near Scottsdale.",
+    "prep": "Pour the tequila and orange juice into glass over ice.  Add the grenadine, which will sink to the bottom.  Stir gently to create the sunrise effect.  Garnish and serve.",
+    "ingredients": [
+      {
+        "name": "Tequila",
+        "amount": "4.5 cl (3 parts)"
+      },
+      {
+        "name": "Orange juice",
+        "amount": "9 cl (6 parts)"
+      },
+      {
+        "name": "Grenadine syrup",
+        "amount": "1.5 cl (1 part)"
+      }
+    ],
+    "drinkware": "collins",
+    "notes": "",
+    "served": "rocks",
+    "type": "mixed",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tequila_Sunrise_garnished_with_orange_and_cherry_-_Evan_Swigart.jpg",
+    "garnish": "orange slice and cherry"
+  },
+  "B-52": {
+    "summary": "The B-52 (also B52 or Bifi or Bifty) cocktail is a layered shot composed of a coffee liqueur (Kahlúa), an Irish cream (Baileys Irish Cream), and a Grand Marnier (in later versions replaced with triple sec or Cointreau).",
+    "prep": "Layer ingredients into a shot glass.  Serve with a stirrer.",
+    "ingredients": [
+      {
+        "name": "Kahlúa",
+        "amount": "2 cl"
+      },
+      {
+        "name": "Baileys Irish Cream",
+        "amount": "2 cl"
+      },
+      {
+        "name": "Grand Marnier",
+        "amount": "2 cl"
+      }
+    ],
+    "drinkware": "shot",
+    "notes": "",
+    "served": "neat",
+    "type": "layered",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cocktail_B52.jpg",
+    "garnish": "Stirrer"
+  },
+  "Barracuda": {
+    "summary": "The Barracuda is an alcoholic cocktail based on Gold rum, Galliano liqueur, pineapple juice, fresh lime juice and top with Prosecco, per IBA specified ingredients.",
+    "prep": "Shake pour ingredients with ice. Strain into glass, top with Sparkling wine.",
+    "ingredients": [
+      {
+        "name": "rum",
+        "amount": "4.5 cl Gold"
+      },
+      {
+        "name": "Galliano",
+        "amount": "1.5 cl"
+      },
+      {
+        "name": "juice",
+        "amount": "6 cl Pineapple"
+      },
+      {
+        "name": "juice",
+        "amount": "1 dash fresh lime"
+      },
+      {
+        "name": "Prosecco",
+        "amount": "Top with"
+      }
+    ],
+    "drinkware": "Margarita glass",
+    "notes": "",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Barracuda_Sparkling_Cocktail.png",
+    "garnish": ""
+  },
+  "Bramble": {
+    "summary": "The Bramble is a cocktail created by Dick Bradsell in 1980s London, England. Best described as a spring cocktail, the Bramble brings together dry gin, lemon juice, sugar syrup, crème de mûre, and crushed ice. Bradsell also suggests finishing off the cocktail with some fresh red fruits (such as blackberries, cranberries) and a slice of lemon.",
+    "prep": "Fill glass with crushed ice. Build gin, lemon juice and simple syrup over. Stir, and then pour blackberry liqueur over in a circular fashion to create marbling effect. Garnish with two blackberries and lemon slice.",
+    "ingredients": [
+      {
+        "name": "gin",
+        "amount": "4 cl"
+      },
+      {
+        "name": "juice",
+        "amount": "1.5 cl lemon"
+      },
+      {
+        "name": "syrup",
+        "amount": "1 cl simple"
+      },
+      {
+        "name": "Creme de Mure (blackberry liqueur)",
+        "amount": "1.5 cl"
+      }
+    ],
+    "drinkware": "old fashioned",
+    "notes": "",
+    "served": "",
+    "type": "All Day",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bramble_Cocktail1.jpg",
+    "garnish": "Blackberry, lemon slice"
+  },
+  "Dark 'n' Stormy": {
+    "summary": "A Dark 'n' Stormy is a highball cocktail made with dark rum (the \"dark\") and ginger beer (the \"stormy\") served over ice and garnished with a slice of lime.",
+    "prep": "Fill glass with ice, add rum and top with ginger beer. Garnish with lime wedge.",
+    "ingredients": [
+      {
+        "name": "dark rum",
+        "amount": "6 cl"
+      },
+      {
+        "name": "Ginger beer",
+        "amount": "10 cl"
+      }
+    ],
+    "drinkware": "highball",
+    "notes": "",
+    "served": "rocks",
+    "type": "Rum",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/DarknStormy.jpg",
+    "garnish": "Lime wedge"
+  },
+  "Espresso Martini": {
+    "summary": "Espresso Martini is a cold, coffee-flavored cocktail made with vodka, espresso coffee, coffee liqueur, and sugar syrup.",
+    "prep": "Pour ingredients into shaker filled with ice, shake vigorously, and strain into chilled martini glass",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "amount": "5 cl"
+      },
+      {
+        "name": "Kahlua",
+        "amount": "1 cl"
+      },
+      {
+        "name": "Sugar syrup",
+        "amount": "according to individual preference of sweetness"
+      },
+      {
+        "name": "short strong Espresso",
+        "amount": "1"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "",
+    "served": "straight",
+    "type": "Cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Bistrot_Bruno_Loubet%2C_Clerkenwell%2C_London_%284574785649%29.jpg",
+    "garnish": "3 Coffee Beans"
+  },
+  "French Martini": {
+    "summary": "The French Martini was invented in the 1980s at one of Keith McNally's New York City bars. It next appeared on the drinks menu at McNally's Balthazar in Soho in 1996.",
+    "prep": "Pour all ingredients into shaker with ice cubes. Shake well and strain into a chilled cocktail glass. Squeeze oil from lemon peel onto the drink.",
+    "ingredients": [
+      {
+        "name": "vodka",
+        "amount": "5 cl"
+      },
+      {
+        "name": "Raspberry Liqueur",
+        "amount": "2.5 cl"
+      },
+      {
+        "name": "fresh pineapple juice",
+        "amount": "5.5 cl"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "",
+    "garnish": ""
+  },
+  "Kamikaze": {
+    "summary": "The Kamikaze is made of equal parts vodka, triple sec and lime juice. According to the International Bartenders Association, it is served straight up in a cocktail glass.",
+    "prep": "Shake all ingredients together with ice. Strain into glass, garnish and serve.",
+    "ingredients": [
+      {
+        "name": "vodka",
+        "amount": "3 cl"
+      },
+      {
+        "name": "triple sec",
+        "amount": "3 cl"
+      },
+      {
+        "name": "lime juice",
+        "amount": "3 cl"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Kamikaze-cocktail.jpg",
+    "garnish": "Lime slice"
+  },
+  "Lemon drop martini": {
+    "summary": "A lemon drop is a vodka-based cocktail that has a lemony, sweet and sour flavor, prepared using lemon juice, triple sec and simple syrup. It has been described as a variant of, or as \"a take on\", the Vodka Martini. It is typically prepared and served straight up – chilled with ice and strained.\nThe drink was invented sometime in the 1970s by Norman Jay Hobday, the founder and proprietor of Henry Africa's bar in San Francisco, California. Some variations of the drink exist, such as blueberry and raspberry lemon drops.",
+    "prep": "Shake and strain into a chilled cocktail glass rimmed with sugar.",
+    "ingredients": [
+      {
+        "name": "vodka citron",
+        "amount": "2.5 cl"
+      },
+      {
+        "name": "triple sec",
+        "amount": "2 cl"
+      },
+      {
+        "name": "lemon juice",
+        "amount": "1.5 cl"
+      }
+    ],
+    "drinkware": "Martini glass",
+    "notes": "",
+    "served": "straight",
+    "type": "",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Lemon_Drop_cocktails.jpg",
+    "garnish": "Lemon slice"
+  },
+  "Dry Martini": {
+    "summary": "The martini is a cocktail made with gin and vermouth, and garnished with an olive or a lemon twist.",
+    "prep": "Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.",
+    "ingredients": [
+      {
+        "name": "gin",
+        "amount": "6 cl (6 parts)"
+      },
+      {
+        "name": "dry vermouth",
+        "amount": "1 cl (1 parts)"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "",
+    "served": "straight (or on the rocks)",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/15-09-26-RalfR-WLC-0084.jpg",
+    "garnish": "Olive or lemon twist"
+  },
+  "Pisco sour": {
+    "summary": "A pisco sour is an alcoholic cocktail of Peruvian origin that is typical of the cuisines from Chile and Peru, considered also a South American classic. The drink's name comes from pisco, which is its base liquor, and the cocktail term sour, in reference to sour citrus juice and sweetener components. The Peruvian pisco sour uses Peruvian pisco as the base liquor and adds freshly squeezed lime juice, syrup, ice, egg white, and Angostura bitters. The Chilean version is similar, but uses Chilean pisco and pica lime, and excludes the bitters and egg white. Other variants of the cocktail include those created with fruits like pineapple or plants such as coca leaves.\nAlthough the preparation of pisco-based mixed beverages possibly dates back to the 1700s, historians and drink experts agree that the cocktail as it is known today was invented in the early 1920s in Lima, the capital of Peru, by the American bartender Victor Vaughen Morris.",
+    "prep": "Vigorously shake and strain contents in a cocktail shaker with ice cubes, then pour into glass and garnish with bitters.",
+    "ingredients": [
+      {
+        "name": "Pisco",
+        "amount": "4.5 cl"
+      },
+      {
+        "name": "lime juice",
+        "amount": "3 cl"
+      },
+      {
+        "name": "Simple syrup",
+        "amount": "2 cl"
+      },
+      {
+        "name": "Egg white",
+        "amount": "1"
+      }
+    ],
+    "drinkware": "old fashioned",
+    "notes": "",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Pisco_sour_20100613b.JPG",
+    "garnish": "Angostura bitters (1 dash)"
+  },
+  "Russian Spring Punch": {
+    "summary": "The Russian Spring Punch is a highball cocktail of vodka and liqueur, per IBA specified ingredients, the International Bartenders Association lists the beverage in its New Era Drinks category.\nThe Russian Spring Punch was created in London, England by Dick Bradsell in the 1980s. He claims not to remember which bar he was working at at the time, but tells the story of how he created the recipe for personal friends wishing to hold a cocktail party while minimizing the amount of money they had to spend on alcohol. Participants were provided with the vodka, cassis, sugar syrup and lemon juice, and were asked to bring their own sparkling wine.",
+    "prep": "Pour the ingredients into an highball glass, top with Sparkling wine.",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "amount": "2.5 cl"
+      },
+      {
+        "name": "créme de cassis",
+        "amount": "1.5 cl"
+      },
+      {
+        "name": "Sugar Syrup",
+        "amount": "1 cl"
+      },
+      {
+        "name": "lemon juice",
+        "amount": "2.5 cl"
+      }
+    ],
+    "drinkware": "highball glass",
+    "notes": "",
+    "served": "highball glass",
+    "type": "cocktail",
+    "img_url": "",
+    "garnish": ""
+  },
+  "Spritz Veneziano": {
+    "summary": "The Spritz (German: \"splash\" / \"sparkling\", also called Spritz Veneziano or just Veneziano) is a wine-based cocktail commonly served as an aperitif in Northeast Italy.",
+    "prep": "Build into glass over ice, garnish and serve.",
+    "ingredients": [
+      {
+        "name": "Prosecco",
+        "amount": "6 cl"
+      },
+      {
+        "name": "Aperol",
+        "amount": "4 cl"
+      },
+      {
+        "name": "soda water",
+        "amount": "splash"
+      }
+    ],
+    "drinkware": "old fashioned",
+    "notes": "",
+    "served": "rocks",
+    "type": "wine",
+    "img_url": "",
+    "garnish": "Orange Wedge"
+  },
+  "Tommy's Margarita": {
+    "summary": "Tommy's Margarita is an all-day cocktail and variant of the Margarita cocktail.",
+    "prep": "Shake and strain into a chilled cocktail glass.",
+    "ingredients": [
+      {
+        "name": "Tequila",
+        "amount": "4.5 cl"
+      },
+      {
+        "name": "lime juice",
+        "amount": "1.5 cl"
+      },
+      {
+        "name": "agave nectar",
+        "amount": "2 barspoons"
+      }
+    ],
+    "drinkware": "cocktail glass",
+    "notes": "",
+    "served": "straight",
+    "type": "mixed",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/TommysMargarita.jpg",
+    "garnish": ""
+  },
+  "Vampiro": {
+    "summary": "The Vampiro is a cold mixed cocktail that includes fruit juice, spices, fruit soda, fresh lime juice, and tequila. The Vampiro has a fruity, lightly carbonated, and spicy taste.\nThe Vampiro can be made with Mexican sangrita, a prepared drink mixer containing orange juice and chili peppers. Once recipe lists the ingredients as tequila, limes, Kosher salt, Squirt brand citrus-flavoured soda and Viuda de Sanchez, an orange juice-based Mexican sangrita beverage. Viuda de Sanchez is sold in Mexico and in areas of the southern US with large Latino populations. If Viuda de Sanchez is not available, good quality fresh-squeezed orange juice, lime juice and spicy pico de gallo seasoning can be used as a substitute.",
+    "prep": "Pour ingredients into glass rimmed with salt. Stir.",
+    "ingredients": [
+      {
+        "name": "tequila",
+        "amount": "5 cl"
+      },
+      {
+        "name": "tomato juice",
+        "amount": "7 cl"
+      },
+      {
+        "name": "orange juice",
+        "amount": "3 cl"
+      },
+      {
+        "name": "lime juice",
+        "amount": "1 cl"
+      },
+      {
+        "name": "clear honey",
+        "amount": "1 teaspoon"
+      },
+      {
+        "name": "onion finely chopped",
+        "amount": "Half slice"
+      },
+      {
+        "name": "fresh red hot chili pepper",
+        "amount": "Few slices"
+      },
+      {
+        "name": "Worcestershire Sauce",
+        "amount": "Few drops"
+      },
+      {
+        "name": "Salt",
+        "amount": ""
+      }
+    ],
+    "drinkware": "old fashioned",
+    "notes": "",
+    "served": "rocks",
+    "type": "cocktail",
+    "img_url": "",
+    "garnish": "Salt on the rim. Chili pepper (optional)"
+  },
+  "Vesper": {
+    "summary": "The Vesper or Vesper Martini is a cocktail that was originally made of gin, vodka, and Kina Lillet.",
+    "prep": "Shake over ice until well chilled, then strain into a deep goblet and garnish with a thin slice of lemon peel.",
+    "ingredients": [
+      {
+        "name": "gin",
+        "amount": "6 cl"
+      },
+      {
+        "name": "vodka",
+        "amount": "1.5 cl"
+      },
+      {
+        "name": "Lillet Blanc",
+        "amount": "0.75 cl"
+      }
+    ],
+    "drinkware": "coupe",
+    "notes": "",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Vesper_Martini_%28corrected%29.jpg",
+    "garnish": "lemon peel"
+  },
+  "Yellow Bird": {
+    "summary": "Yellow Bird is a Caribbean cocktail beverage.",
+    "prep": "Shake and strain into a chilled cocktail glass",
+    "ingredients": [
+      {
+        "name": "White Rum",
+        "amount": "3 cl"
+      },
+      {
+        "name": "galliano",
+        "amount": "1.5 cl"
+      },
+      {
+        "name": "triple sec",
+        "amount": "1.5 cl"
+      },
+      {
+        "name": "lime juice",
+        "amount": "1.5 cl"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "",
+    "garnish": ""
+  },
+  "Brandy Alexander": {
+    "summary": "The Alexander is a cocktail consisting of some form of alcohol, Cocoa Liqueur (Crème de cacao), and cream.",
+    "prep": "Shake all ingredients with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve.",
+    "ingredients": [
+      {
+        "name": "cognac",
+        "amount": "3 cl"
+      },
+      {
+        "name": "brown crème de cacao",
+        "amount": "3 cl"
+      },
+      {
+        "name": "light cream",
+        "amount": "3 cl"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Alexander_Cocktail.png",
+    "garnish": "Nutmeg"
+  },
+  "Americano": {
+    "summary": "The Americano is an IBA Official Cocktail composed of Campari, sweet vermouth, and club soda. The cocktail was first served in creator Gaspare Campari's bar, Caffè Campari, in the 1860s. It was originally known as the \"Milano-Torino\" because of its ingredients: Campari, the bitter liqueur, is from Milan (Milano) and Punt e Mes, the vermouth, is from Turin (Torino).",
+    "prep": "Pour the Campari and vermouth over ice into glass, add a splash of soda water and garnish with half orange slice.",
+    "ingredients": [
+      {
+        "name": "Campari",
+        "amount": "3 cl"
+      },
+      {
+        "name": "red vermouth",
+        "amount": "3 cl"
+      },
+      {
+        "name": "soda water",
+        "amount": "splash"
+      }
+    ],
+    "drinkware": "old fashioned",
+    "notes": "",
+    "served": "rocks",
+    "type": "mixed",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Americano_cocktail_at_Nightwood_Restaurant.jpg",
+    "garnish": "half an orange slice"
+  },
+  "Angel Face": {
+    "summary": "The Angel Face is a cocktail made from gin, apricot brandy and Calvados in equal amounts.",
+    "prep": "Shake all ingredients with ice and strain contents into a cocktail glass.",
+    "ingredients": [
+      {
+        "name": "gin",
+        "amount": "3 cl"
+      },
+      {
+        "name": "Apricot brandy",
+        "amount": "3 cl"
+      },
+      {
+        "name": "Calvados",
+        "amount": "3 cl"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "",
+    "garnish": ""
+  },
+  "Aviation": {
+    "summary": "The Aviation is a classic cocktail made with gin, maraschino liqueur, crème de violette, and lemon juice. Some recipes omit the crème de violette.",
+    "prep": "Add all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass. Garnish with a cherry.",
+    "ingredients": [
+      {
+        "name": "gin",
+        "amount": "4.5 cl"
+      },
+      {
+        "name": "lemon juice",
+        "amount": "1.5 cl"
+      },
+      {
+        "name": "maraschino liqueur",
+        "amount": "1.5 cl"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Aviation_Cocktail.jpg",
+    "garnish": "cherry"
+  },
+  "Bacardi cocktail": {
+    "summary": "The Bacardi cocktail is an IBA Official Cocktail made primarily with Bacardi Superior.",
+    "prep": "Shake together with ice.  Strain into glass and serve",
+    "ingredients": [
+      {
+        "name": "white rum",
+        "amount": "4.5 cl"
+      },
+      {
+        "name": "lime juice",
+        "amount": "2 cl"
+      },
+      {
+        "name": "grenadine syrup",
+        "amount": "1 cl"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bacardi_cocktail.jpg",
+    "garnish": "Lime"
+  },
+  "Between the Sheets": {
+    "summary": "The Between the Sheets is a cocktail consisting of white rum, cognac, triple sec, and lemon juice.",
+    "prep": "Pour all ingredients into shaker with ice cubes, shake, strain into chilled cocktail glass.",
+    "ingredients": [
+      {
+        "name": "white rum",
+        "amount": "3 cl"
+      },
+      {
+        "name": "cognac",
+        "amount": "3 cl"
+      },
+      {
+        "name": "triple sec",
+        "amount": "3 cl"
+      },
+      {
+        "name": "lemon juice",
+        "amount": "2 cl"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Between_The_Sheets_Cocktail.jpg",
+    "garnish": ""
+  },
+  "Casino": {
+    "summary": "The Casino is an IBA official cocktail made with gin, maraschino liqueur, orange bitters and fresh lemon juice.",
+    "prep": "Pour all ingredients into shaker with ice cubes. Shake well. Strain into chilled cocktail glass. Garnish with a lemon twist and a maraschino cherry. Serve without a straw.",
+    "ingredients": [
+      {
+        "name": "gin (Old Tom)",
+        "amount": "4 cl"
+      },
+      {
+        "name": "Maraschino",
+        "amount": "1 cl"
+      },
+      {
+        "name": "orange bitters",
+        "amount": "1 cl"
+      },
+      {
+        "name": "lemon juice",
+        "amount": "1 cl"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "",
+    "garnish": "Lemon twist and maraschino cherry"
+  },
+  "Clover Club Cocktail": {
+    "summary": "The Clover Club Cocktail is a cocktail consisting of Gin, Lemon Juice, Raspberry Syrup, and an egg white. The egg white is not added for the purpose of giving the drink flavor, but rather acts as an emulsifier.",
+    "prep": "Dry shake ingredients to emulsify, add ice, shake and served straight up.",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "amount": "4.5 cl"
+      },
+      {
+        "name": "Lemon Juice",
+        "amount": "1.5 cl"
+      },
+      {
+        "name": "Raspberry Syrup",
+        "amount": "1.5 cl"
+      },
+      {
+        "name": "Egg White",
+        "amount": "1 "
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Cloverclub.jpg",
+    "garnish": ""
+  },
+  "Daiquiri": {
+    "summary": "Daiquiri (; Spanish: daiquirí [daikiˈɾi]) is a family of cocktails whose main ingredients are rum, citrus juice (typically lime juice), and sugar or other sweetener.\nThe daiquiri is one of the six basic drinks listed in David A. Embury's classic The Fine Art of Mixing Drinks.",
+    "prep": "Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.",
+    "ingredients": [
+      {
+        "name": "white rum",
+        "amount": "4.5 cl (9 parts)"
+      },
+      {
+        "name": "lime juice",
+        "amount": "2.5 cl (5 parts)"
+      },
+      {
+        "name": "simple syrup",
+        "amount": "1.5 cl (3 parts)"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Classic_Daiquiri_in_Cocktail_Glass.jpg",
+    "garnish": ""
+  },
+  "Derby": {
+    "summary": "The Derby is an IBA Official Cocktail composed of gin, peach bitters and mint leaves.\nOther cocktails are known by the same name.",
+    "prep": "Pour all ingredients into a mixing glass with ice. Stir. Strain into a cocktail glass. Garnish with a sprig of fresh mint in the drink.",
+    "ingredients": [
+      {
+        "name": "gin",
+        "amount": "6 cl"
+      },
+      {
+        "name": "peach bitters",
+        "amount": "2 dashes"
+      },
+      {
+        "name": "fresh mint leaves",
+        "amount": "2"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "",
+    "garnish": "mint leaves"
+  },
+  "Gin Fizz": {
+    "summary": "A gin fizz is the best-known cocktail in the fizz family. A gin fizz contains gin, lemon juice, and sugar, which are shaken with ice, poured into a tumbler and topped with carbonated water. The drink is similar to a Tom Collins, with a possible distinction being a Tom Collins historically used \"Old Tom Gin\" (a slightly sweeter precursor to London Dry Gin), whereas the kind of gin historically used in a gin fizz is unknown.",
+    "prep": "	Shake all ingredients with ice cubes, except soda water. Pour into glass. Top with soda water.",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "amount": "4.5 cl"
+      },
+      {
+        "name": "Lemon juice",
+        "amount": "3 cl"
+      },
+      {
+        "name": "Gomme syrup",
+        "amount": "1 cl"
+      },
+      {
+        "name": "Soda water",
+        "amount": "8 cl"
+      }
+    ],
+    "drinkware": "old fashioned",
+    "notes": "Simple variations of the gin fizz are:\nsilver fizz - addition of egg white\ngolden fizz - addition of egg yolk\nroyal fizz - addition of whole egg\ndiamond fizz - sparkling wine instead of carbonated water\nmore commonly known as a French 75\ngreen fizz - addition of a dash of green crème de menthe\npurple fizz - with Sloe gin and grapefruit juice (instead of gin and lemon juice)",
+    "served": "rocks",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/15-09-26-RalfR-WLC-0032.jpg",
+    "garnish": "lemon slice"
+  },
+  "Ramos Gin Fizz": {
+    "summary": "A Ramos gin fizz (also known as a \"Ramos fizz\" or \"New Orleans fizz\") contains gin, lemon juice, lime juice, egg white, sugar, cream, orange flower water, and soda water. It is served in a large non-tapered 12 to 14 ounce Collins glass",
+    "prep": "All ingredients except the soda are poured in a mixing glass, dry shaken (no ice) for two minutes, then ice is added and shaken hard for another minute.\nStrained into a highball glass without ice and topped with soda",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "amount": "4.5 cl"
+      },
+      {
+        "name": "Lemon juice",
+        "amount": "1.5 cl"
+      },
+      {
+        "name": "Lime juice",
+        "amount": "1.5 cl"
+      },
+      {
+        "name": "Simple syrup",
+        "amount": "3 cl"
+      },
+      {
+        "name": "cream",
+        "amount": "6 cl"
+      },
+      {
+        "name": "egg white",
+        "amount": "1"
+      },
+      {
+        "name": "orange flower water",
+        "amount": "3 dashes"
+      },
+      {
+        "name": "vanilla extract",
+        "amount": "2 drops"
+      },
+      {
+        "name": "Soda water",
+        "amount": ""
+      }
+    ],
+    "drinkware": "collins",
+    "notes": "",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ramos_Gin_Fizz.jpg/1024px-Ramos_Gin_Fizz.jpg",
+    "garnish": ""
+  },
+  "John Collins": {
+    "summary": "A John Collins is a cocktail which was attested to in 1869, but may be older.",
+    "prep": "Pour all ingredients directly into highball glass filled with ice. Stir gently. Garnish. Add a dash of Angostura bitters.",
+    "ingredients": [
+      {
+        "name": "gin",
+        "amount": "4.5 cl (3 parts)"
+      },
+      {
+        "name": "lemon juice",
+        "amount": "3 cl (2 parts)"
+      },
+      {
+        "name": "sugar syrup",
+        "amount": "1.5 cl (1 part) "
+      },
+      {
+        "name": "carbonated water",
+        "amount": "6 cl (4 parts)"
+      }
+    ],
+    "drinkware": "collins",
+    "notes": "",
+    "served": "rocks",
+    "type": "Cocktail",
+    "img_url": "",
+    "garnish": "Lemon slice and maraschino cherry"
+  },
+  "Manhattan": {
+    "summary": "A Manhattan is a cocktail made with whiskey, sweet vermouth, and bitters. While rye is the traditional whiskey of choice, other commonly used whiskeys include Canadian whisky, bourbon, blended whiskey, and Tennessee whiskey. The cocktail is usually stirred then strained into a cocktail glass and garnished with a Maraschino cherry. A Manhattan may also be served on the rocks in a lowball glass.\nThe whiskey-based Manhattan is one of five cocktails named for a New York City borough.",
+    "prep": "Stirred over ice, strained into a chilled glass, garnished, and served up.",
+    "ingredients": [
+      {
+        "name": "Rye whiskey",
+        "amount": "5 cL"
+      },
+      {
+        "name": "Sweet red vermouth",
+        "amount": "2 cL"
+      },
+      {
+        "name": "Angostura bitters",
+        "amount": "Dash"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Manhattan_Cocktail2.jpg",
+    "garnish": "Maraschino cherry"
+  },
+  "Mary Pickford": {
+    "summary": "A Mary Pickford is a Prohibition Era cocktail made with white rum, fresh pineapple juice, grenadine, and Maraschino liqueur. It is served shaken and chilled, often with a Maraschino cherry.",
+    "prep": "Shake and strain into a chilled large cocktail glass",
+    "ingredients": [
+      {
+        "name": "white rum",
+        "amount": "6 cl"
+      },
+      {
+        "name": "pineapple juice",
+        "amount": "6 cl"
+      },
+      {
+        "name": "Grenadine",
+        "amount": "1 cl"
+      },
+      {
+        "name": "Maraschino",
+        "amount": "1 cl"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Mary_Pickford_Cocktail.jpg",
+    "garnish": ""
+  },
+  "Monkey Gland": {
+    "summary": "The Monkey Gland is a cocktail of gin, orange juice, grenadine and absinthe created in the 1920s by Harry MacElhone, owner of Harry's New York Bar in Paris, France.",
+    "prep": "Shake well over ice cubes in a shaker, strain into a chilled cocktail glass.",
+    "ingredients": [
+      {
+        "name": "gin",
+        "amount": "5 cl"
+      },
+      {
+        "name": "orange juice",
+        "amount": "3 cl"
+      },
+      {
+        "name": "absinthe",
+        "amount": "2 drops"
+      },
+      {
+        "name": "grenadine",
+        "amount": "2 drops"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Monkey_Gland_%2811677703163%29.jpg",
+    "garnish": ""
+  },
+  "Negroni (cocktail)": {
+    "summary": "The Negroni cocktail is made of one part gin, one part vermouth rosso (red, semi-sweet), and one part Campari, garnished with orange peel.",
+    "prep": "Stir into glass over ice, garnish and serve.",
+    "ingredients": [
+      {
+        "name": "gin",
+        "amount": "3 cl"
+      },
+      {
+        "name": "sweet red vermouth",
+        "amount": "3 cl"
+      },
+      {
+        "name": "campari",
+        "amount": "3 cl"
+      }
+    ],
+    "drinkware": "old fashioned",
+    "notes": "",
+    "served": "rocks",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Negroni_served_in_Vancouver_BC.jpg",
+    "garnish": "Orange slice"
+  },
+  "Old Fashioned": {
+    "summary": "The Old Fashioned is a cocktail made by muddling sugar with bitters, then adding alcohol, originally whiskey but now sometimes brandy, and finally a twist of citrus (or orange) rind. It is traditionally served in a short, round, tumbler-like glass, which is called an Old Fashioned glass, named after the drink.\nThe Old Fashioned, developed during the 19th century and given its name in the 1880s, is an IBA Official Cocktail.",
+    "prep": "Place sugar cube in old fashioned glass and saturate with bitters, add a dash of plain water.\nMuddle until dissolved. <br />\nFill the glass with ice cubes and add whiskey. <br />\nGarnish with orange twist, and a cocktail cherry.",
+    "ingredients": [
+      {
+        "name": "Bourbon or Rye whiskey",
+        "amount": "4.5 cl"
+      },
+      {
+        "name": "Angostura bitters",
+        "amount": "2 dashes"
+      },
+      {
+        "name": "sugar cube",
+        "amount": "1"
+      },
+      {
+        "name": "plain water",
+        "amount": "few dashes"
+      }
+    ],
+    "drinkware": "old fashioned",
+    "notes": "",
+    "served": "rocks",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Whiskey_Old_Fashioned1.jpg",
+    "garnish": "* Orange twist* cocktail cherry"
+  },
+  "Paradise": {
+    "summary": "The Paradise is an IBA official cocktail, and is classified as a \"pre-dinner\" drink, an apéritif.\nThe earliest known in-print recipe for the Paradise Cocktail was written by Harry Craddock in 1930.",
+    "prep": "Shake together over ice.  Strain into cocktail glass and serve chilled.",
+    "ingredients": [
+      {
+        "name": "gin",
+        "amount": "3.5 cl (7 parts)"
+      },
+      {
+        "name": "apricot brandy",
+        "amount": "2 cl (4 parts)"
+      },
+      {
+        "name": "orange juice",
+        "amount": "1.5 cl (3 parts)"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Paradise_cocktail.jpg",
+    "garnish": ""
+  },
+  "Planter's Punch": {
+    "summary": "Planter's Punch is an IBA Official Cocktail made of dark rum, several juices, grenadine syrup, sugar syrup, and Angostura bitters.",
+    "prep": "Pour all ingredients, except the bitters, into shaker filled with ice. Shake well. Pour into large glass, filled with ice. Add Angostura bitters, \"on top\". Garnish with cocktail cherry and pineapple.",
+    "ingredients": [
+      {
+        "name": "Dark rum",
+        "amount": "4.5cl"
+      },
+      {
+        "name": "orange juice",
+        "amount": "3.5 cl"
+      },
+      {
+        "name": "pineapple juice",
+        "amount": "3.5 cl"
+      },
+      {
+        "name": "lemon juice",
+        "amount": "2 cl"
+      },
+      {
+        "name": "Grenadine syrup",
+        "amount": "1 cl"
+      },
+      {
+        "name": "sugar syrup",
+        "amount": "1 cl"
+      },
+      {
+        "name": "Angostura bitters",
+        "amount": "3 or 4 dashes"
+      }
+    ],
+    "drinkware": "highball",
+    "notes": "",
+    "served": "rocks",
+    "type": "mixed",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Planters_Punch_2.jpg",
+    "garnish": "Cherry and Pineapple slice"
+  },
+  "Porto Flip": {
+    "summary": "A Porto flip is a type of drink. It is typically made with brandy, ruby port, and one egg yolk.\nThe Porto Flip was first recorded by Jerry Thomas in his 1862 book The Bartender’s Guide: How to Mix Drinks; A Bon Vivant’s Companion.",
+    "prep": "Shake ingredients together in a mixer with ice.  Strain into glass, garnish and serve",
+    "ingredients": [
+      {
+        "name": "brandy",
+        "amount": "1.5 cl (3 parts)"
+      },
+      {
+        "name": "port",
+        "amount": "4.5 cl (9 parts)"
+      },
+      {
+        "name": "egg yolk",
+        "amount": "1 cl (2 parts)"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Porto_Flip.jpg",
+    "garnish": "Grated nutmeg"
+  },
+  "Sazerac": {
+    "summary": "The Sazerac is a local New Orleans variation of a cognac or whiskey cocktail, named for the Sazerac de Forge et Fils brand of cognac brandy that served as its original main ingredient. The drink is most traditionally a combination of cognac or rye whiskey, absinthe, Peychaud's Bitters, and sugar, although bourbon whiskey or Herbsaint are sometimes substituted.",
+    "prep": "Rinse a chilled old-fashioned glass with the absinthe, add crushed ice, and set it aside. \nStir the remaining ingredients over ice and set it aside. \nDiscard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Add the lemon peel for garnish.",
+    "ingredients": [
+      {
+        "name": "cognac",
+        "amount": "5 cl"
+      },
+      {
+        "name": "Absinthe",
+        "amount": "1 cl"
+      },
+      {
+        "name": "sugar cube",
+        "amount": "1"
+      },
+      {
+        "name": "Peychaud's Bitters",
+        "amount": "2 dashes"
+      }
+    ],
+    "drinkware": "old fashioned",
+    "notes": "Note: The original recipe changed in the latter part of the 19th century. Rye whiskey was substituted when cognac became difficult to obtain.",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/SazeracRooseveltNOLA1July2009.JPG",
+    "garnish": "Lemon peel"
+  },
+  "Screwdriver": {
+    "summary": "A screwdriver is a popular alcoholic highball drink made with orange juice and vodka. While the basic drink is simply the two ingredients, there are many variations; the most common one is made with one part vodka, one part of any kind of orange soda, and one part of orange juice. Many of the variations have different names in different parts of the world.",
+    "prep": "Mix in a highball glass with ice. Garnish and serve.",
+    "ingredients": [
+      {
+        "name": "vodka",
+        "amount": "5 cl (1 part)"
+      },
+      {
+        "name": "orange juice",
+        "amount": "10 cl (2 parts)"
+      }
+    ],
+    "drinkware": "highball",
+    "notes": "",
+    "served": "rocks",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Screwdriver%2C_Birmingham-Shuttlesworth_International_Airport%2C_Birmingham_AL.jpg",
+    "garnish": "orange slice"
+  },
+  "Sidecar": {
+    "summary": "The sidecar is a cocktail traditionally made with cognac, orange liqueur (Cointreau, Grand Marnier, Dry Curaçao or another triple sec), and lemon juice.",
+    "prep": "Pour all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass.",
+    "ingredients": [
+      {
+        "name": "cognac",
+        "amount": "5 cl"
+      },
+      {
+        "name": "triple sec",
+        "amount": "2 cl"
+      },
+      {
+        "name": "lemon juice",
+        "amount": "2 cl"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "",
+    "served": "Straight up (without ice)",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Sidecar-cocktail.jpg",
+    "garnish": ""
+  },
+  "White Lady": {
+    "summary": "White Lady (also known as a Delilah, or Chelsea Side-car) is essentially a sidecar made with gin in place of brandy. What makes it different from the simple gin sour is the switching of sugar for triple sec. The cocktail sometimes also includes additional ingredients, for example egg white, sugar, or cream.",
+    "prep": "Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass.",
+    "ingredients": [
+      {
+        "name": "gin",
+        "amount": "4 cl"
+      },
+      {
+        "name": "triple sec",
+        "amount": "3 cl"
+      },
+      {
+        "name": "lemon juice",
+        "amount": "2 cl"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "Variant of a Sidecar.",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "http://shake-that.com/wp-content/uploads/2015/07/White-Lady.jpg",
+    "garnish": ""
+  },
+  "Stinger": {
+    "summary": "A Stinger is a duo cocktail made by adding crème de menthe to brandy (although recipes vary). The cocktail's origins can be traced to the United States in the 1890s, and the beverage remained widely popular in America until the 1970s.",
+    "prep": "Pour in a mixing glass with ice, stir and strain into a cocktail glass.  May also be served on rocks in a rocks glass.",
+    "ingredients": [
+      {
+        "name": "cognac",
+        "amount": "5 cl"
+      },
+      {
+        "name": "white crème de menthe",
+        "amount": "2cl"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "It has been suggested that during the 1920s the Stinger ceased being an after-dinner cocktail, and instead should be consumed before dinner. However, the IBA continues to list the Stinger as an after-dinner cocktail.",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Stinger_Cocktail.jpg",
+    "garnish": ""
+  },
+  "Tuxedo": {
+    "summary": "The Tuxedo is an IBA Official Cocktail composed of gin, dry Vermouth, orange bitters, maraschino and Absinthe.\nRelated to the martini, the Tuxedo has had many variations since its inception in the 1880s. The cocktail is named after the Tuxedo Club outside Jersey City where it was first mixed. Tuxedo Park, the planned community where the club was built, is itself a derivation of the Lenape word tucseto. The form of menswear by the same name originated at the same country club around the same time.",
+    "prep": "Stir all ingredients with ice and strain into a cocktail glass.  Garnish with a cherry and a twist of lemon zest.",
+    "ingredients": [
+      {
+        "name": "Gin (Old Tom)",
+        "amount": "3 cl"
+      },
+      {
+        "name": "dry vermouth",
+        "amount": "3 cl"
+      },
+      {
+        "name": "Maraschino",
+        "amount": "1/2 barspoon"
+      },
+      {
+        "name": "Absinthe",
+        "amount": "1/4 barspoon"
+      },
+      {
+        "name": "orange bitters",
+        "amount": "3 dashes"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "",
+    "served": "straight",
+    "type": "cocktail",
+    "img_url": "",
+    "garnish": "cherry, lemon zest"
+  },
+  "Rusty Nail": {
+    "summary": "A Rusty Nail is made by mixing Drambuie and Scotch whisky. A Rusty Nail can be served in an old-fashioned glass on the rocks, neat, or \"up\" in a stemmed glass. It is most commonly served over ice. A Rusty Nail served without ice is sometimes called a Straight Up Nail.",
+    "prep": "Pour all ingredients directly into old-fashioned glass filled with ice. Stir gently. Garnish with a lemon twist. Serve.",
+    "ingredients": [
+      {
+        "name": "Scotch whisky",
+        "amount": "4.5 cl"
+      },
+      {
+        "name": "Drambuie",
+        "amount": "2.5 cl"
+      }
+    ],
+    "drinkware": "old fashioned",
+    "notes": "Versions of the drink can be made using any aged spirit, though blended Scotch whisky is traditional.",
+    "served": "rocks",
+    "type": "cocktail",
+    "img_url": "",
+    "garnish": "lemon twist"
+  },
+  "Whiskey sour": {
+    "summary": "The whiskey sour is a mixed drink containing whiskey (often bourbon), lemon juice, sugar, and optionally, a dash of egg white. With the egg white, it is sometimes called a Boston Sour. With a few bar spoons of full-bodied red wine floated on top, it is often referred to as a New York Sour. It is shaken and served either straight up or over ice.\nThe traditional garnish is half an orange slice and a maraschino cherry.\nA variant of the whiskey sour is the Ward 8, which often is based with bourbon or rye whiskey, and includes both lemon and orange juices, and grenadine syrup as the sweetener.",
+    "prep": "Shake with ice. Strain into chilled glass, garnish and serve.",
+    "ingredients": [
+      {
+        "name": "bourbon whiskey",
+        "amount": "4.5 cl (3 parts)"
+      },
+      {
+        "name": "lemon juice",
+        "amount": "3 cl (2 parts)"
+      },
+      {
+        "name": "Gomme syrup",
+        "amount": "1.5 cl (1 part)"
+      },
+      {
+        "name": "(optional)",
+        "amount": "dash egg white"
+      }
+    ],
+    "drinkware": "cocktail",
+    "notes": "If served 'On the rocks', strain ingredients into old-fashioned glass filled with ice.",
+    "served": "rocks",
+    "type": "cocktail",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Whiskey_Sour.jpg",
+    "garnish": "Maraschino cherry and half orange slice"
+  }
+}
