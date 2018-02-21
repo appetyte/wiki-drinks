@@ -848,20 +848,20 @@
     "prep": "Shake pour ingredients with ice. Strain into glass, top with Sparkling wine.",
     "ingredients": [
       {
-        "name": "rum",
-        "amount": "4.5 cl Gold"
+        "name": "gold rum",
+        "amount": "4.5 cl"
       },
       {
         "name": "Galliano",
         "amount": "1.5 cl"
       },
       {
-        "name": "juice",
-        "amount": "6 cl Pineapple"
+        "name": "Pineapple juice",
+        "amount": "6 cl"
       },
       {
-        "name": "juice",
-        "amount": "1 dash fresh lime"
+        "name": "lime juice",
+        "amount": "1 dash"
       },
       {
         "name": "Prosecco",
@@ -884,12 +884,12 @@
         "amount": "4 cl"
       },
       {
-        "name": "juice",
-        "amount": "1.5 cl lemon"
+        "name": "lemon juice",
+        "amount": "1.5 cl"
       },
       {
-        "name": "syrup",
-        "amount": "1 cl simple"
+        "name": "simple syrup",
+        "amount": "1 cl"
       },
       {
         "name": "Creme de Mure (blackberry liqueur)",
