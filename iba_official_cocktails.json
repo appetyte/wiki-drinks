@@ -48,8 +48,8 @@
         "amount": "4.5 cl (3 parts)"
       },
       {
-        "name": "juice",
-        "amount": "9 cl (6 parts) Tomato"
+        "name": "Tomato juice",
+        "amount": "9 cl (6 parts)"
       },
       {
         "name": "Lemon juice",
@@ -337,7 +337,7 @@
       },
       {
         "name": "orange juice",
-        "amount": "9 cl(6 parts)"
+        "amount": "9 cl (6 parts)"
       }
     ],
     "drinkware": "highball",
