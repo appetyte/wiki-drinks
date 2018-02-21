@@ -1501,7 +1501,7 @@
   },
   "Gin Fizz": {
     "summary": "A gin fizz is the best-known cocktail in the fizz family. A gin fizz contains gin, lemon juice, and sugar, which are shaken with ice, poured into a tumbler and topped with carbonated water. The drink is similar to a Tom Collins, with a possible distinction being a Tom Collins historically used \"Old Tom Gin\" (a slightly sweeter precursor to London Dry Gin), whereas the kind of gin historically used in a gin fizz is unknown.",
-    "prep": "	Shake all ingredients with ice cubes, except soda water. Pour into glass. Top with soda water.",
+    "prep": "Shake all ingredients with ice cubes, except soda water. Pour into glass. Top with soda water.",
     "ingredients": [
       {
         "name": "Gin",
