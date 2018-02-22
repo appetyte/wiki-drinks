@@ -47,18 +47,11 @@ const docs = Object.keys(input).map(id => {
     'category': oldDrink['strCategory'],
     'imgUrl': oldDrink['strDrinkThumb'],
     'glassType': oldDrink['strGlass'],
-    // 'IBA': oldDrink['strIBA'],
-    // 'videoUrl': oldDrink['strVideo'],
     'ingredients': getIngredients(oldDrink)
   };
   return newDrink;
 });
 
-
-// const output = {};
-
-// docs.forEach(doc => output[doc.]);
 docs.forEach(line => file.write(`${JSON.stringify(line)}\n`));
-// file.write(`${JSON.stringify(output)}`);
 
 file.end();
