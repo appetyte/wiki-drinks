@@ -9,7 +9,7 @@ const getIngredients = oldDrink => {
     const name = oldDrink[`strIngredient${i}`];
     let amount = oldDrink[`strMeasure${i}`];
 
-    if (name !== '' && name !== '\n') {
+    if (name !== '' && name !== '\n' && name !== null) {
       if (amount === '\n') amount =  '';
       ingredients.push({
         name,
@@ -28,7 +28,7 @@ Object.keys(input).map(id => {
     'alcoholic': oldDrink['strAlcoholic'],
     'category': oldDrink['strCategory'],
     'imgUrl': oldDrink['strDrinkThumb'],
-    'glass type': oldDrink['strGlass'],
+    'glassType': oldDrink['strGlass'],
     'IBA': oldDrink['strIBA'],
     'videoUrl': oldDrink['strVideo'],
     'ingredients': getIngredients(oldDrink)
@@ -36,15 +36,4 @@ Object.keys(input).map(id => {
   return newDrink;
 }).forEach(line => file.write(`${JSON.stringify(line)}\n`));
 
-// tempArray.forEach(line => file.write(`${JSON.stringify(line)}\n`));
-
-// const fs = require('fs');
-// const ibaOfficialCocktails = require('../json/iba_official_cocktails.json');
-//
-// const file = fs.createWriteStream('../json/input.json');
-//
-// Object.keys(ibaOfficialCocktails)
-//   .map(name => Object.assign({ name }, ibaOfficialCocktails[name]))
-//   .forEach(line => file.write(`${JSON.stringify(line)}\n`));
-//
 file.end();

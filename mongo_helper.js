@@ -1,10 +1,50 @@
-aggregateByType = () => {
+aggregateByCategory = () => {
   return db.recipes.aggregate([{
       $match: {}
     },
     {
       $group: {
-        _id: '$type',
+        _id: '$category',
+        count: {
+          $sum: 1
+        }
+      }
+    },
+    {
+      $sort: {
+        count: -1
+      }
+    }
+  ]);
+};
+
+aggregateByAlcholic = () => {
+  return db.recipes.aggregate([{
+      $match: {}
+    },
+    {
+      $group: {
+        _id: '$alcoholic',
+        count: {
+          $sum: 1
+        }
+      }
+    },
+    {
+      $sort: {
+        count: -1
+      }
+    }
+  ]);
+};
+
+aggregateByGlass = () => {
+  return db.recipes.aggregate([{
+      $match: {}
+    },
+    {
+      $group: {
+        _id: '$glassType',
         count: {
           $sum: 1
         }
@@ -19,7 +59,6 @@ aggregateByType = () => {
 };
 
 aggregateByIngredients = () => {
-  let ingdList = db.recipes.distinct('ingredients.name');
   let counterHash = {};
   let arr = [];
 
@@ -30,13 +69,19 @@ aggregateByIngredients = () => {
     })
   })
 
-  Object.keys(counterHash).forEach(_id => {
+  Object.keys(counterHash).forEach(drink => {
     arr.push({
-      _id,
-      count: counterHash[_id]
+      drink,
+      count: counterHash[drink]
     });
   });
 
+  counterHash = {};
   arr.sort((a, b) => a.count < b.count);
-  return arr;
+
+  arr.forEach(obj => {
+    counterHash[obj.drink] = obj.count;
+  });
+
+  return counterHash;
 };
