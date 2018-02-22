@@ -10,7 +10,7 @@ const getIngredients = oldDrink => {
     let amount = oldDrink[`strMeasure${i}`];
 
     if (name !== '' && name !== '\n' && name !== null) {
-      if (amount === '\n') amount =  '';
+      if (amount === '\n') amount = '';
       ingredients.push({
         name,
         amount
