@@ -1,5 +1,16 @@
+fromShelf = shelf => {
+  return db.recipes_v4.find({'ingredients.name': {$in: shelf}});
+  // return db.recipes_v4.find({$and: [{'ingredients.name': shelf}] });
+  // return db.recipes_v4.find({$setIsSubset: [shelf, 'ingredients.name']});
+  // return db.recipes_v4.aggregate([{
+  //   $match: {
+  //     $setIsSubset: [shelf, 'ingredients.name']
+  //   }
+  // }])
+};
+
 aggregateByCategory = () => {
-  return db.recipes.aggregate([{
+  return db.recipes_v4.aggregate([{
       $match: {}
     },
     {
@@ -19,7 +30,7 @@ aggregateByCategory = () => {
 };
 
 aggregateByAlcholic = () => {
-  return db.recipes.aggregate([{
+  return db.recipes_v4.aggregate([{
       $match: {}
     },
     {
@@ -39,7 +50,7 @@ aggregateByAlcholic = () => {
 };
 
 aggregateByGlass = () => {
-  return db.recipes.aggregate([{
+  return db.recipes_v4.aggregate([{
       $match: {}
     },
     {
@@ -62,7 +73,7 @@ aggregateByIngredients = () => {
   let counterHash = {};
   let arr = [];
 
-  db.recipes.find().forEach(recipe => {
+  db.recipes_v4.find().forEach(recipe => {
     recipe.ingredients.forEach(ingredient => {
       let temp = counterHash[ingredient.name] || 0;
       counterHash[ingredient.name] = temp + 1;

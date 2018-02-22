@@ -1,23 +1,27 @@
 const fs = require('fs');
 const input = require('../json/temp_tk.json');
 
-const file = fs.createWriteStream('../json/cocktail_db.json');
+const recipeFile = fs.createWriteStream('../json/cocktail_db_recipes.json');
+const ingredientFile = fs.createWriteStream('../json/cocktail_db_ingredients.json');
+
+const ingredients = new Set();
 
 const getIngredients = oldDrink => {
-  const ingredients = [];
+  const recipeIngredients = [];
   for (let i = 1; i <= 15; i++) {
     const name = oldDrink[`strIngredient${i}`];
     let amount = oldDrink[`strMeasure${i}`];
 
     if (name !== '' && name !== '\n' && name !== null) {
       if (amount === '\n') amount = '';
-      ingredients.push({
+      ingredients.add(name);
+      recipeIngredients.push({
         name,
         amount
       });
     }
   }
-  return ingredients;
+  return recipeIngredients;
 };
 
 const curryIds = () => {
@@ -34,13 +38,13 @@ const curryIds = () => {
   };
 };
 
-const output = {};
-const getId = curryIds();
+const getRecipeId = curryIds();
+const getIngredientId = curryIds();
 
-const docs = Object.keys(input).map(id => {
+const recipes = Object.keys(input).map(id => {
   const oldDrink = input[id];
   const newDrink = {
-    '_id': getId(oldDrink['strDrink']),
+    '_id': getRecipeId(oldDrink['strDrink']),
     'name': oldDrink['strDrink'],
     'instructions': oldDrink['strInstructions'],
     'alcoholic': oldDrink['strAlcoholic'],
@@ -52,6 +56,8 @@ const docs = Object.keys(input).map(id => {
   return newDrink;
 });
 
-docs.forEach(line => file.write(`${JSON.stringify(line)}\n`));
+recipes.forEach(line => recipeFile.write(`${JSON.stringify(line)}\n`));
+ingredients.forEach(line => ingredientFile.write(`{"_id": "${getIngredientId(line)}", "name": "${line}"}\n`));
 
-file.end();
+recipeFile.end();
+ingredientFile.end();

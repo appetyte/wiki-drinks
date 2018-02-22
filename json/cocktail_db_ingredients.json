@@ -1,0 +1,351 @@
+{"_id": "Lr", "name": "Light rum"}
+{"_id": "Gb", "name": "Ginger beer"}
+{"_id": "Lp", "name": "Lemon peel"}
+{"_id": "Ar", "name": "Añejo rum"}
+{"_id": "Oj", "name": "Orange juice"}
+{"_id": "Lj", "name": "Lemon juice"}
+{"_id": "Ga", "name": "Ginger ale"}
+{"_id": "A", "name": "Applejack"}
+{"_id": "Gj", "name": "Grapefruit juice"}
+{"_id": "G", "name": "Gin"}
+{"_id": "Ob", "name": "Orange bitters"}
+{"_id": "O", "name": "Orange"}
+{"_id": "C", "name": "Cherry"}
+{"_id": "Dr", "name": "Dark rum"}
+{"_id": "Pn", "name": "Peach nectar"}
+{"_id": "Ts", "name": "Triple sec"}
+{"_id": "Lj-1", "name": "Lime juice"}
+{"_id": "S", "name": "Sugar"}
+{"_id": "Ew", "name": "Egg white"}
+{"_id": "M", "name": "Mint"}
+{"_id": "G-1", "name": "Grenadine"}
+{"_id": "SV", "name": "Sweet Vermouth"}
+{"_id": "S-1", "name": "Sherry"}
+{"_id": "Ss", "name": "Strawberry schnapps"}
+{"_id": "Cj", "name": "Cranberry juice"}
+{"_id": "Cs", "name": "Club soda"}
+{"_id": "S-2", "name": "Scotch"}
+{"_id": "DV", "name": "Dry Vermouth"}
+{"_id": "Ab", "name": "Apricot brandy"}
+{"_id": "L", "name": "Lime"}
+{"_id": "SC", "name": "Southern Comfort"}
+{"_id": "A-1", "name": "Amaretto"}
+{"_id": "Sg", "name": "Sloe gin"}
+{"_id": "YC", "name": "Yellow Chartreuse"}
+{"_id": "CdC", "name": "Creme de Cacao"}
+{"_id": "Lc", "name": "Light cream"}
+{"_id": "N", "name": "Nutmeg"}
+{"_id": "B", "name": "Brandy"}
+{"_id": "Lv", "name": "Lemon vodka"}
+{"_id": "Pj", "name": "Pineapple juice"}
+{"_id": "Bw", "name": "Blended whiskey"}
+{"_id": "B-1", "name": "Bourbon"}
+{"_id": "Bb", "name": "Blackberry brandy"}
+{"_id": "K", "name": "Kummel"}
+{"_id": "K-1", "name": "Kahlua"}
+{"_id": "WCdM", "name": "White Creme de Menthe"}
+{"_id": "T", "name": "Tea"}
+{"_id": "Wc", "name": "Whipped cream"}
+{"_id": "Ab-1", "name": "Apple brandy"}
+{"_id": "W", "name": "Wine"}
+{"_id": "B-2", "name": "Benedictine"}
+{"_id": "C-1", "name": "Champagne"}
+{"_id": "GCdM", "name": "Green Creme de Menthe"}
+{"_id": "GM", "name": "Grand Marnier"}
+{"_id": "B-3", "name": "Bitters"}
+{"_id": "B-4", "name": "Banana"}
+{"_id": "Cw", "name": "Carbonated water"}
+{"_id": "Cl", "name": "Coffee liqueur"}
+{"_id": "V", "name": "Vodka"}
+{"_id": "T-1", "name": "Tequila"}
+{"_id": "Tj", "name": "Tomato juice"}
+{"_id": "Ts-1", "name": "Tabasco sauce"}
+{"_id": "Cs-1", "name": "Celery salt"}
+{"_id": "L-1", "name": "Lemon"}
+{"_id": "Ws", "name": "Worcestershire sauce"}
+{"_id": "BC", "name": "Blue Curacao"}
+{"_id": "L-2", "name": "Lemonade"}
+{"_id": "S-3", "name": "Salt"}
+{"_id": "Tm", "name": "Tia maria"}
+{"_id": "Mc", "name": "Maraschino cherry"}
+{"_id": "Ml", "name": "Maraschino liqueur"}
+{"_id": "Ps", "name": "Powdered sugar"}
+{"_id": "W-1", "name": "Water"}
+{"_id": "E", "name": "Egg"}
+{"_id": "C-2", "name": "Cachaca"}
+{"_id": "Ey", "name": "Egg yolk"}
+{"_id": "C-3", "name": "Cognac"}
+{"_id": "Cb", "name": "Cherry brandy"}
+{"_id": "P", "name": "Port"}
+{"_id": "Ci", "name": "Chocolate ice-cream"}
+{"_id": "C-4", "name": "Coca-Cola"}
+{"_id": "DR", "name": "Dubonnet Rouge"}
+{"_id": "Ss-1", "name": "Sugar syrup"}
+{"_id": "I", "name": "Ice"}
+{"_id": "P-1", "name": "Pineapple"}
+{"_id": "Tw", "name": "Tonic water"}
+{"_id": "Os", "name": "Orange spiral"}
+{"_id": "Op", "name": "Orange peel"}
+{"_id": "S-4", "name": "Strawberries"}
+{"_id": "Hc", "name": "Heavy cream"}
+{"_id": "G-2", "name": "Galliano"}
+{"_id": "O-1", "name": "Olive"}
+{"_id": "Iw", "name": "Irish whiskey"}
+{"_id": "Pb", "name": "Peach brandy"}
+{"_id": "Sas", "name": "Sweet and sour"}
+{"_id": "GC", "name": "Green Chartreuse"}
+{"_id": "D", "name": "Drambuie"}
+{"_id": "Os-1", "name": "Orgeat syrup"}
+{"_id": "Rw", "name": "Red wine"}
+{"_id": "Rs", "name": "Raspberry syrup"}
+{"_id": "Cb-1", "name": "Coffee brandy"}
+{"_id": "Lv-1", "name": "Lime vodka"}
+{"_id": "Ls", "name": "Lemon-lime soda"}
+{"_id": "R", "name": "Rum"}
+{"_id": "M-1", "name": "Milk"}
+{"_id": "1pr", "name": "151 proof rum"}
+{"_id": "Lp-1", "name": "Lime peel"}
+{"_id": "R-1", "name": "Ricard"}
+{"_id": "Pb-1", "name": "Peychaud bitters"}
+{"_id": "C-5", "name": "Curacao"}
+{"_id": "A-2", "name": "Anisette"}
+{"_id": "C-6", "name": "Cointreau"}
+{"_id": "C-7", "name": "Cream"}
+{"_id": "Aj", "name": "Apple juice"}
+{"_id": "C-8", "name": "Carrot"}
+{"_id": "Pfj", "name": "Passion fruit juice"}
+{"_id": "Sw", "name": "Soda water"}
+{"_id": "Y", "name": "Yoghurt"}
+{"_id": "H", "name": "Honey"}
+{"_id": "Cs-2", "name": "Chocolate syrup"}
+{"_id": "A-3", "name": "Apple"}
+{"_id": "Fj", "name": "Fruit juice"}
+{"_id": "F", "name": "Fruit"}
+{"_id": "Ms", "name": "Mint syrup"}
+{"_id": "Cs-3", "name": "Cumin seed"}
+{"_id": "A-4", "name": "Asafoetida"}
+{"_id": "M-2", "name": "Mango"}
+{"_id": "G-3", "name": "Ginger"}
+{"_id": "Cp", "name": "Cayenne pepper"}
+{"_id": "A-5", "name": "Aperol"}
+{"_id": "C-9", "name": "Cantaloupe"}
+{"_id": "B-5", "name": "Berries"}
+{"_id": "G-4", "name": "Grapes"}
+{"_id": "K-2", "name": "Kiwi"}
+{"_id": "P-2", "name": "Papaya"}
+{"_id": "Cp-1", "name": "Cocoa powder"}
+{"_id": "C-10", "name": "Cornstarch"}
+{"_id": "C-11", "name": "Chocolate"}
+{"_id": "C-12", "name": "Cinnamon"}
+{"_id": "V-1", "name": "Vanilla"}
+{"_id": "B-6", "name": "Butter"}
+{"_id": "Ve", "name": "Vanilla extract"}
+{"_id": "H-1", "name": "Half-and-half"}
+{"_id": "M-3", "name": "Marshmallows"}
+{"_id": "E-1", "name": "Espresso"}
+{"_id": "AC", "name": "Absolut Citron"}
+{"_id": "Ps-1", "name": "Peach schnapps"}
+{"_id": "PV", "name": "Peach Vodka"}
+{"_id": "Sor", "name": "Sirup of roses"}
+{"_id": "J", "name": "Jägermeister"}
+{"_id": "C-13", "name": "Coffee"}
+{"_id": "Ga-1", "name": "Grain alcohol"}
+{"_id": "Sr", "name": "Spiced rum"}
+{"_id": "C-14", "name": "Cardamom"}
+{"_id": "C-15", "name": "Cloves"}
+{"_id": "Bp", "name": "Black pepper"}
+{"_id": "C-16", "name": "Coriander"}
+{"_id": "Wc-1", "name": "Whipping cream"}
+{"_id": "Cm", "name": "Condensed milk"}
+{"_id": "A-6", "name": "Anise"}
+{"_id": "Lr-1", "name": "Licorice root"}
+{"_id": "W-2", "name": "Wormwood"}
+{"_id": "A-7", "name": "Apricot"}
+{"_id": "Af", "name": "Almond flavoring"}
+{"_id": "Fc", "name": "Food coloring"}
+{"_id": "G-5", "name": "Glycerine"}
+{"_id": "Ar-1", "name": "Angelica root"}
+{"_id": "A-8", "name": "Almond"}
+{"_id": "A-9", "name": "Allspice"}
+{"_id": "Ml-1", "name": "Marjoram leaves"}
+{"_id": "Cc", "name": "Caramel coloring"}
+{"_id": "C-17", "name": "Cranberries"}
+{"_id": "Pe", "name": "Peppermint extract"}
+{"_id": "Cs-4", "name": "Coconut syrup"}
+{"_id": "JW", "name": "Johnnie Walker"}
+{"_id": "Fs", "name": "Fennel seeds"}
+{"_id": "Bs", "name": "Brown sugar"}
+{"_id": "Gj-1", "name": "Guava juice"}
+{"_id": "Ac", "name": "Apple cider"}
+{"_id": "Rw-1", "name": "Rye whiskey"}
+{"_id": "E-2", "name": "Everclear"}
+{"_id": "K-3", "name": "Kool-Aid"}
+{"_id": "Gj-2", "name": "Grape juice"}
+{"_id": "Csd", "name": "Carbonated soft drink"}
+{"_id": "S-5", "name": "Sherbet"}
+{"_id": "F-1", "name": "Fresca"}
+{"_id": "Bic", "name": "Bailey's irish cream"}
+{"_id": "F-2", "name": "Firewater"}
+{"_id": "AP", "name": "Absolut Peppar"}
+{"_id": "Cl-1", "name": "Cherry liqueur"}
+{"_id": "L-3", "name": "Lager"}
+{"_id": "C-18", "name": "Cider"}
+{"_id": "Bc", "name": "Blackcurrant cordial"}
+{"_id": "F-3", "name": "Frangelico"}
+{"_id": "Sm", "name": "Sour mix"}
+{"_id": "W-3", "name": "Whiskey"}
+{"_id": "HD", "name": "Hot Damn"}
+{"_id": "Ab-2", "name": "Angostura bitters"}
+{"_id": "Mml", "name": "Midori melon liqueur"}
+{"_id": "B-7", "name": "Beer"}
+{"_id": "DP", "name": "Dr. Pepper"}
+{"_id": "Wr", "name": "White rum"}
+{"_id": "P-3", "name": "Pisco"}
+{"_id": "Ic", "name": "Irish cream"}
+{"_id": "G-6", "name": "Goldschlager"}
+{"_id": "A-10", "name": "Ale"}
+{"_id": "Gs", "name": "Guinness stout"}
+{"_id": "Cl-2", "name": "Chocolate liqueur"}
+{"_id": "S-6", "name": "Sambuca"}
+{"_id": "EC", "name": "Erin Cream"}
+{"_id": "A-11", "name": "Advocaat"}
+{"_id": "Pfs", "name": "Passion fruit syrup"}
+{"_id": "Vi", "name": "Vanilla ice-cream"}
+{"_id": "Oc", "name": "Oreo cookie"}
+{"_id": "S-7", "name": "Sprite"}
+{"_id": "Pl", "name": "Pink lemonade"}
+{"_id": "It", "name": "Iced tea"}
+{"_id": "S-8", "name": "Sarsaparilla"}
+{"_id": "7", "name": "7-Up"}
+{"_id": "As", "name": "Apple schnapps"}
+{"_id": "A-12", "name": "Anis"}
+{"_id": "Ps-2", "name": "Peppermint schnapps"}
+{"_id": "CdC-1", "name": "Creme de Cassis"}
+{"_id": "JD", "name": "Jack Daniels"}
+{"_id": "JB", "name": "Jim Beam"}
+{"_id": "Pcm", "name": "Pina colada mix"}
+{"_id": "Dm", "name": "Daiquiri mix"}
+{"_id": "AV", "name": "Absolut Vodka"}
+{"_id": "Bs-1", "name": "Butterscotch schnapps"}
+{"_id": "Cl-3", "name": "Coconut liqueur"}
+{"_id": "CR", "name": "Crown Royal"}
+{"_id": "Crl", "name": "Chambord raspberry liqueur"}
+{"_id": "Gl", "name": "Godiva liqueur"}
+{"_id": "AK", "name": "Absolut Kurant"}
+{"_id": "PA", "name": "Pisang Ambon"}
+{"_id": "Bl", "name": "Bitter lemon"}
+{"_id": "CH", "name": "Cherry Heering"}
+{"_id": "Hc-1", "name": "Hot chocolate"}
+{"_id": "CdB", "name": "Creme de Banane"}
+{"_id": "Mr", "name": "Malibu rum"}
+{"_id": "DCdC", "name": "Dark Creme de Cacao"}
+{"_id": "Vv", "name": "Vanilla vodka"}
+{"_id": "WT", "name": "Wild Turkey"}
+{"_id": "Gs-1", "name": "Grape soda"}
+{"_id": "C-19", "name": "Candy"}
+{"_id": "Bl-1", "name": "Banana liqueur"}
+{"_id": "Kl", "name": "Kiwi liqueur"}
+{"_id": "Ps-3", "name": "Peachtree schnapps"}
+{"_id": "S-9", "name": "Surge"}
+{"_id": "J-1", "name": "Jello"}
+{"_id": "Fp", "name": "Fruit punch"}
+{"_id": "Cv", "name": "Cranberry vodka"}
+{"_id": "A-13", "name": "Apfelkorn"}
+{"_id": "SR", "name": "Schweppes Russchian"}
+{"_id": "C-20", "name": "Corona"}
+{"_id": "BL", "name": "Bacardi Limon"}
+{"_id": "YJ", "name": "Yukon Jack"}
+{"_id": "Cr", "name": "Coconut rum"}
+{"_id": "T-2", "name": "Tropicana"}
+{"_id": "C-21", "name": "Cherries"}
+{"_id": "A-14", "name": "Aquavit"}
+{"_id": "C-22", "name": "Campari"}
+{"_id": "Cm-1", "name": "Chocolate milk"}
+{"_id": "K-4", "name": "Kirschwasser"}
+{"_id": "Sl", "name": "Strawberry liqueur"}
+{"_id": "Rb", "name": "Root beer"}
+{"_id": "BS", "name": "Black Sambuca"}
+{"_id": "Bs-2", "name": "Blackcurrant squash"}
+{"_id": "Z", "name": "Zima"}
+{"_id": "PC", "name": "Pepsi Cola"}
+{"_id": "OC", "name": "Orange Curacao"}
+{"_id": "Coc", "name": "Cream of coconut"}
+{"_id": "A-15", "name": "Absinthe"}
+{"_id": "W-4", "name": "Whisky"}
+{"_id": "Tw-1", "name": "Tennessee whiskey"}
+{"_id": "O-2", "name": "Ouzo"}
+{"_id": "L-4", "name": "Limeade"}
+{"_id": "Ml-2", "name": "Melon liqueur"}
+{"_id": "MD", "name": "Mountain Dew"}
+{"_id": "Cs-5", "name": "Corn syrup"}
+{"_id": "RM", "name": "Rumple Minze"}
+{"_id": "Ljc", "name": "Lime juice cordial"}
+{"_id": "Gt", "name": "Gold tequila"}
+{"_id": "Bs-3", "name": "Blueberry schnapps"}
+{"_id": "M-4", "name": "Maui"}
+{"_id": "Rv", "name": "Raspberry vodka"}
+{"_id": "TS", "name": "Triple Sec"}
+{"_id": "CG", "name": "Cherry Grenadine"}
+{"_id": "LJ", "name": "Lemon Juice"}
+{"_id": "AS", "name": "Agave Syrup"}
+{"_id": "dS", "name": "demerara Sugar"}
+{"_id": "Bic-1", "name": "Baileys irish cream"}
+{"_id": "lj", "name": "lemon juice"}
+{"_id": "ml", "name": "maraschino liqueur"}
+{"_id": "OB", "name": "Olive Brine"}
+{"_id": "LJ-1", "name": "Lime Juice"}
+{"_id": "PS", "name": "Pineapple Syrup"}
+{"_id": "SG", "name": "St. Germain"}
+{"_id": "AB", "name": "Angostura Bitters"}
+{"_id": "P-4", "name": "Pepper"}
+{"_id": "L-5", "name": "Lavender"}
+{"_id": "g", "name": "gin"}
+{"_id": "PB", "name": "Peach Bitters"}
+{"_id": "AB-1", "name": "Apricot Brandy"}
+{"_id": "OJ", "name": "Orange Juice"}
+{"_id": "EY", "name": "Egg Yolk"}
+{"_id": "oj", "name": "orange juice"}
+{"_id": "GJ", "name": "Grapefruit Juice"}
+{"_id": "ML", "name": "Maraschino Liqueur"}
+{"_id": "Cm-2", "name": "Coconut milk"}
+{"_id": "PJ", "name": "Pineapple Juice"}
+{"_id": "P-5", "name": "Prosecco"}
+{"_id": "CdM", "name": "Creme de Mure"}
+{"_id": "DR-1", "name": "Dark Rum"}
+{"_id": "GB", "name": "Ginger Beer"}
+{"_id": "RL", "name": "Raspberry Liqueur"}
+{"_id": "pj", "name": "pineapple juice"}
+{"_id": "SS", "name": "Sugar Syrup"}
+{"_id": "SW", "name": "Soda Water"}
+{"_id": "LB", "name": "Lillet Blanc"}
+{"_id": "WR", "name": "White Rum"}
+{"_id": "VI", "name": "Vanilla Ice-Cream"}
+{"_id": "WC", "name": "Whipped Cream"}
+{"_id": "cs", "name": "caramel sauce"}
+{"_id": "cs-1", "name": "chocolate sauce"}
+{"_id": "Mb", "name": "Mini-snickers bars"}
+{"_id": "CJ", "name": "Cranberry Juice"}
+{"_id": "EW", "name": "Egg White"}
+{"_id": "FLJ", "name": "Fresh Lemon Juice"}
+{"_id": "V-2", "name": "Vermouth"}
+{"_id": "FLJ-1", "name": "Fresh Lime Juice"}
+{"_id": "l", "name": "lemon"}
+{"_id": "CS", "name": "Chocolate Sauce"}
+{"_id": "SC-1", "name": "Salted Chocolate"}
+{"_id": "MC", "name": "Maraschino Cherry"}
+{"_id": "B-8", "name": "Blackberries"}
+{"_id": "Gr", "name": "Gold rum"}
+{"_id": "P-6", "name": "Pernod"}
+{"_id": "TW", "name": "Tonic Water"}
+{"_id": "R-2", "name": "Rosemary"}
+{"_id": "M-5", "name": "Mezcal"}
+{"_id": "L-6", "name": "Lillet"}
+{"_id": "OP", "name": "Orange Peel"}
+{"_id": "OB-1", "name": "Orange Bitters"}
+{"_id": "B-9", "name": "Bailey"}
+{"_id": "J-2", "name": "Jagermeister"}
+{"_id": "SaS", "name": "Sweet and Sour"}
+{"_id": "P-7", "name": "Passoa"}
+{"_id": "Ec", "name": "Elderflower cordial"}
+{"_id": "RV", "name": "Rosso Vermouth"}
+{"_id": "HC", "name": "Hot Chocolate"}
