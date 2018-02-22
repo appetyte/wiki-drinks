@@ -20,20 +20,45 @@ const getIngredients = oldDrink => {
   return ingredients;
 };
 
-Object.keys(input).map(id => {
+const curryIds = () => {
+  const counter = {};
+  return name => {
+    let id = name.split(" ").map(str => str[0]).join('');
+    if (counter[id] === undefined) {
+      counter[id] = 0;
+      return id;
+    } else {
+      counter[id]++;
+      return id + '-' + counter[id];
+    }
+  };
+};
+
+const output = {};
+const getId = curryIds();
+
+const docs = Object.keys(input).map(id => {
   const oldDrink = input[id];
   const newDrink = {
+    '_id': getId(oldDrink['strDrink']),
     'name': oldDrink['strDrink'],
     'instructions': oldDrink['strInstructions'],
     'alcoholic': oldDrink['strAlcoholic'],
     'category': oldDrink['strCategory'],
     'imgUrl': oldDrink['strDrinkThumb'],
     'glassType': oldDrink['strGlass'],
-    'IBA': oldDrink['strIBA'],
-    'videoUrl': oldDrink['strVideo'],
+    // 'IBA': oldDrink['strIBA'],
+    // 'videoUrl': oldDrink['strVideo'],
     'ingredients': getIngredients(oldDrink)
   };
   return newDrink;
-}).forEach(line => file.write(`${JSON.stringify(line)}\n`));
+});
+
+
+// const output = {};
+
+// docs.forEach(doc => output[doc.]);
+docs.forEach(line => file.write(`${JSON.stringify(line)}\n`));
+// file.write(`${JSON.stringify(output)}`);
 
 file.end();
