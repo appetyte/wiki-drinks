@@ -3,7 +3,7 @@ require 'json'
 file = File.open("file.json", "r:UTF-8", &:read)
 iba_data = JSON.parse(file)
 
-regex = /(.+cl|oz|dashes|barspoon\))\s(.+)$/
+regex = /(.+\)|.+cl|.+dashes|.+barspoon|.+teaspoons|.*splash|\d)*\s*(.+)$/
 
 iba_data.each do |name, data|
   ingredients = data["ingredients"].split("*").drop(1)
