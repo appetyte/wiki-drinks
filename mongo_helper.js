@@ -1,12 +1,53 @@
-fromShelf = shelf => {
-  return db.recipes_v4.find({'ingredients.name': {$in: shelf}});
-  // return db.recipes_v4.find({$and: [{'ingredients.name': shelf}] });
-  // return db.recipes_v4.find({$setIsSubset: [shelf, 'ingredients.name']});
-  // return db.recipes_v4.aggregate([{
-  //   $match: {
-  //     $setIsSubset: [shelf, 'ingredients.name']
-  //   }
-  // }])
+getDrinksFromShelf = shelf => {
+  const shelfCursor = db.docs.find({
+    _id: {
+      $in: shelf
+    }
+  });
+  const recipes = new Set();
+  const ingredients = [];
+
+  shelfCursor.forEach( ingredient => {
+    ingredient['owns'] = true;
+    ingredient.recipes.forEach( id => {
+      recipes.add(id);
+    });
+    ingredients.push(ingredient);
+  });
+
+  return db.docs.aggregate([
+    {
+      $match: {
+        _id: {$in: Array.from(recipes)}
+      }
+    },
+    {
+      $bucket: {
+        groupBy: {
+          $subtract: [
+            {$size: '$ingredients._id'},
+            {$size: {$setIntersection: ['$ingredients._id', shelf]}},
+          ]
+        },
+        boundaries: [0,1,2,3,4,5,6,7],
+        default: "8+",
+        output: {
+          "count": { $sum: 1 },
+          "recipeNames" : {
+            $push: {
+              _id: '$_id',
+              missingIngredients: {
+                $setDifference: [
+                  '$ingredients._id',
+                  {$setIntersection: ['$ingredients._id', shelf]}
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  ]);
 };
 
 aggregateByCategory = () => {
@@ -77,8 +118,8 @@ aggregateByIngredients = () => {
     recipe.ingredients.forEach(ingredient => {
       let temp = counterHash[ingredient.name] || 0;
       counterHash[ingredient.name] = temp + 1;
-    })
-  })
+    });
+  });
 
   Object.keys(counterHash).forEach(drink => {
     arr.push({
